@@ -1,0 +1,53 @@
+/* ダークモード全体のスタイル */
+body {
+    background-color: #121212; /* 背景を暗く */
+    color: #ffffff; /* 文字色を明るく */
+}
+
+.navbar {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+.alert-success {
+    background-color: #333333; /* 背景を暗めの灰色 */
+    color: #d4d4d4; /* 文字色を落ち着いた白に */
+}
+
+.table {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+}
+
+.table-dark {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+a {
+    color: #8ab4f8; /* 明るい青色にしてリンクを目立たせる */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a9d1ff; /* マウスオーバー時のリンク色 */
+}
+
+/* ボタンやフォームの背景色調整 */
+button,
+input,
+textarea {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border: 1px solid #444444;
+}
+
+button:hover {
+    background-color: #333333;
+}
+
+/* テーブルのヘッダー部分を暗めに */
+thead {
+    background-color: #333333;
+    color: #ffffff;
+}
