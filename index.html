@@ -161,10 +161,10 @@ function makeBMSTable(info, mark, order) {
                     if (info[i].url_diff != "" && info[i].url_diff != null) {
                         $("<td width='10%'>" +
                             "<a href='" + info[i].url_diff +
-                            "' target='_blank'>" + info[i].name_diff + "</a></td>").appendTo(str);
+                            "' target='_blank'>" + "|⇩|" + "</a></td>").appendTo(str);
                     }
                     else{
-                        $("<td width='10%'>" + "|⇩|" + "</td>").appendTo(str);
+                        $("<td width='10%'>" + "非公開" + "</td>").appendTo(str);
                     }
                     
                     // Comment
