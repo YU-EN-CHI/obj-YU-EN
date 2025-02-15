@@ -170,9 +170,14 @@ function makeBMSTable(info, mark, order) {
                     // Comment
                     $("<td width='20%'>" + info[i].comment + "</td>").appendTo(str);
 
-                    // Date (日付)
+		    // Date (日付)
 		    if (info[i].date && info[i].date !== "") {
-    			$("<td width='10%'>" + info[i].date + "</td>").appendTo(str);
+    			let dateObj = new Date(info[i].date);
+    			let formattedDate = dateObj.getFullYear() + "/" +
+                        ("0" + (dateObj.getMonth() + 1)).slice(-2) + "/" +
+                        ("0" + dateObj.getDate()).slice(-2);
+    
+    			$("<td width='10%'>" + formattedDate + "</td>").appendTo(str);
 		    } else {
     			$("<td width='10%'>-</td>").appendTo(str); // データがない場合は "-"
 		    }
