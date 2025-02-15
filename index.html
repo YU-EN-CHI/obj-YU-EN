@@ -171,10 +171,10 @@ function makeBMSTable(info, mark, order) {
                     $("<td width='20%'>" + info[i].comment + "</td>").appendTo(str);
 
                     // Date (日付)
-		    if (info[i].date != "" && info[i].date != null) {
+		    if (info[i].date && info[i].date !== "") {
     			$("<td width='10%'>" + info[i].date + "</td>").appendTo(str);
 		    } else {
-    			$("<td width='10%'>-</td>").appendTo(str); // データがない場合は "-" を表示
+    			$("<td width='10%'>-</td>").appendTo(str); // データがない場合は "-"
 		    }
 
 		    str.appendTo(obj);
