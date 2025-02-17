@@ -35,16 +35,16 @@ thead th {
     color: #ffffff; /* 文字色 */
 }
 
-/* 🎵 **譜面数行 (tr.table-dark) を常に固定色にする** */
+/* 🎵 **譜面数行（tr.table-dark の td）** */
 tr.table-dark td {
-    background-color: #292b2c !important; /* 譜面数行だけ濃い色 */
+    background-color: #292b2c !important; /* より濃い背景色で区別 */
     color: #ffffff;
-    font-weight: bold;
-    text-align: center;
+    font-weight: bold; /* 文字を太く */
+    text-align: center; /* 中央揃え */
 }
 
-/* 🎨 **ストライプテーブル（楽曲データ行のみ適用）** */
-.table-striped tbody tr:not(.table-dark):nth-of-type(odd) {
+/* 🎨 **ストライプテーブル（奇数行）をダーク用に変更** */
+.table-striped tbody tr:nth-of-type(odd) {
     background-color: #252525 !important;
 }
 
