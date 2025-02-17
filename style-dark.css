@@ -42,28 +42,13 @@ thead th {
     color: #e8e6e3;
 }
 
-/* 🎨 ホバー時の背景色・文字色 */
-.table-hover > tbody > tr:hover {
-  background-color: #282c2d; /* ダークテーマ用のホバー色 */
-  color: #e8e6e3; /* ホバー時のテキスト色 */
+/* 🎨 楽曲行（奇数行の背景色: #242729, 偶数行の背景色: #1b1e1f） */
+.table-striped tbody tr:not(.table-dark):nth-child(odd) {
+    background-color: #242729 !important;
 }
 
-/* 🎨 ダークテーマのテーブル */
-.table-dark {
-  background-color: #1c1e1f; /* テーブル背景色 */
-  color: #e8e6e3; /* テーブルのテキスト色 */
-
-  /* 🎨 ストライプの背景色 */
-  --bs-table-striped-bg: #242729;
-  --bs-table-striped-color: #e8e6e3;
-
-  /* 🎨 アクティブ時の背景色・文字色 */
-  --bs-table-active-bg: #2c3032;
-  --bs-table-active-color: #e8e6e3;
-
-  /* 🎨 ホバー時の背景色・文字色 */
-  --bs-table-hover-bg: #282c2d;
-  --bs-table-hover-color: #e8e6e3;
+.table-striped tbody tr:not(.table-dark):nth-child(even) {
+    background-color: #1b1e1f !important;
 }
 
 /* 🔗 リンクのスタイル */
