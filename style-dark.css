@@ -14,14 +14,10 @@ body {
     color: #d4d4d4; /* 文字色を落ち着いた白に */
 }
 
-.table {
-    background-color: #1e1e1e;
+/* テーブルの背景をダークに */
+.table, .table-dark, .table-striped, .table-hover {
+    background-color: #1e1e1e !important; /* 強制適用 */
     color: #d4d4d4;
-}
-
-.table-dark {
-    background-color: #333333;
-    color: #ffffff;
 }
 
 a {
@@ -50,4 +46,26 @@ button:hover {
 thead {
     background-color: #333333;
     color: #ffffff;
+}
+
+/* ヘッダー背景を統一 */
+thead th {
+    background-color: #333333 !important;
+    color: #ffffff;
+}
+
+/* 偶数行の背景色を変更（ストライプ対応） */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #292b2c; /* Bootstrapのダークモードと統一 */
+}
+
+/* セルの背景も統一 */
+td, th {
+    background-color: #1e1e1e !important;
+    color: #ffffff;
+}
+
+/* テーブルのストライプ効果をダーク用に調整 */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #292b2c !important;
 }
