@@ -29,8 +29,8 @@ body {
 
 /* ヘッダー行のスタイル */
 thead th {
-    background-color: #333333 !important;
-    color: #ffffff;
+    background-color: #1c1e1f !important;
+    color: #e8e6e3;
 }
 
 /* 🎵 **譜面数行 (tr.table-dark) のスタイルを統一** */
