@@ -1,38 +1,65 @@
-/* ダークモード全体のスタイル */
+/* 🌑 ページ全体のダークテーマ設定 */
 body {
     background-color: #181a1b; /* 背景を暗く */
     color: #e8e6e3; /* 文字色を明るく */
 }
 
+/* 🏠 ナビゲーションバー */
 .navbar {
     background-color: #1e1e1e;
     color: #ffffff;
 }
 
+/* 🔔 通知（アラート）ボックス */
 .alert-success {
     background-color: #333333; /* 背景を暗めの灰色 */
     color: #d4d4d4; /* 文字色を落ち着いた白に */
 }
 
-/* テーブルの背景をダークに */
-.table, .table-dark, .table-striped, .table-hover {
-    background-color: #1e1e1e !important; /* 強制適用 */
+/* 📋 **テーブル全体のスタイル** */
+/* テーブルの基本色をダークに */
+.table {
+    background-color: #1e1e1e;
     color: #d4d4d4;
 }
 
+/* ヘッダー行のスタイル */
+thead th {
+    background-color: #333333 !important;
+    color: #ffffff;
+}
+
+/* 🖥 **楽曲データ部分（tbody の通常行）** */
+.table-dark tbody tr {
+    background-color: #1e1e1e !important; /* ダーク背景 */
+    color: #ffffff; /* 文字色 */
+}
+
+/* 🎵 **譜面数行（tr.table-dark の td）** */
+tr.table-dark td {
+    background-color: #292b2c !important; /* より濃い背景色で区別 */
+    color: #ffffff;
+    font-weight: bold; /* 文字を太く */
+    text-align: center; /* 中央揃え */
+}
+
+/* 🎨 **ストライプテーブル（奇数行）をダーク用に変更** */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #252525 !important;
+}
+
+/* 🔗 リンクのスタイル */
 a {
-    color: #005fb8; /* 明るい青色にしてリンクを目立たせる */
+    color: #3399ff; /* 明るい青 */
     text-decoration: none;
 }
 
 a:hover {
-    color: #a9d1ff; /* マウスオーバー時のリンク色 */
+    color: #a9d1ff; /* ホバー時の色 */
 }
 
-/* ボタンやフォームの背景色調整 */
-button,
-input,
-textarea {
+/* 🔘 ボタンや入力フォームのスタイル */
+button, input, textarea {
     background-color: #1e1e1e;
     color: #ffffff;
     border: 1px solid #444444;
@@ -40,32 +67,4 @@ textarea {
 
 button:hover {
     background-color: #333333;
-}
-
-/* テーブルのヘッダー部分を暗めに */
-thead {
-    background-color: #333333;
-    color: #ffffff;
-}
-
-/* ヘッダー背景を統一 */
-thead th {
-    background-color: #333333 !important;
-    color: #ffffff;
-}
-
-/* 偶数行の背景色を変更（ストライプ対応） */
-.table-striped tbody tr:nth-of-type(odd) {
-    background-color: #292b2c; /* Bootstrapのダークモードと統一 */
-}
-
-/* セルの背景も統一 */
-td, th {
-    background-color: #1e1e1e !important;
-    color: #ffffff;
-}
-
-/* テーブルのストライプ効果をダーク用に調整 */
-.table-striped tbody tr:nth-of-type(odd) {
-    background-color: #292b2c !important;
 }
