@@ -1,7 +1,16 @@
 /* 🌑 ページ全体のダークテーマ設定 */
 body {
-    background-color: #202426; /* 背景を暗く */
-    color: #e8e6e3; /* 文字色を明るく */
+  background-color: #1a1d1e;
+  color: #d8d4cf;
+}
+
+html, body {
+  border-color: #736b5e; /* Dark Reader の border 色 */
+  color: #e8e6e3; /* Dark Reader のテキスト色 */
+}
+
+* {
+  scrollbar-color: #454a4d #202324; /* スクロールバーの色 */
 }
 
 /* 🏠 ナビゲーションバー */
@@ -31,6 +40,30 @@ body {
 thead th {
     background-color: #1c1e1f !important;
     color: #e8e6e3;
+}
+
+/* 🎨 ホバー時の背景色・文字色 */
+.table-hover > tbody > tr:hover {
+  background-color: #282c2d; /* ダークテーマ用のホバー色 */
+  color: #e8e6e3; /* ホバー時のテキスト色 */
+}
+
+/* 🎨 ダークテーマのテーブル */
+.table-dark {
+  background-color: #1c1e1f; /* テーブル背景色 */
+  color: #e8e6e3; /* テーブルのテキスト色 */
+
+  /* 🎨 ストライプの背景色 */
+  --bs-table-striped-bg: #242729;
+  --bs-table-striped-color: #e8e6e3;
+
+  /* 🎨 アクティブ時の背景色・文字色 */
+  --bs-table-active-bg: #2c3032;
+  --bs-table-active-color: #e8e6e3;
+
+  /* 🎨 ホバー時の背景色・文字色 */
+  --bs-table-hover-bg: #282c2d;
+  --bs-table-hover-color: #e8e6e3;
 }
 
 /* 🔗 リンクのスタイル */
