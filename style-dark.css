@@ -47,11 +47,6 @@ thead th {
     border-bottom: 1px solid #1e2121 !important;
 }
 
-/* レベル行の下のボーダー */
-.table-dark tbody tr.table-dark-separator {
-    border-bottom: 2px solid #797063 !important;
-}
-
 /* 🎨 楽曲行（奇数行の背景色: #242729, 偶数行の背景色: #1b1e1f） */
 .table-striped tbody tr:not(.table-dark):nth-child(odd) {
     background-color: #242729 !important;
