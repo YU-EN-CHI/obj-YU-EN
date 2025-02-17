@@ -113,84 +113,77 @@ function makeBMSTable(info, mark, order) {
 		);
 	}
 
-		obj.html("");
-                $("<thead class='table-dark'><tr><th>Level</th><th>Title (IR)</th><th>Artist (SongDL)</th><th>DL</th><th>Comment</th><th>Date</th></tr></thead><tbody>")
-                    .appendTo(obj);
-                var obj_sep = null;
-                for (var i = 0; i < info.length; i++) {
-                    if (x != info[i].level) {
-                        if (obj_sep != null) {
-                            obj_sep.html("<td colspan='6'>" + "<b>" + mark + x + " (" + count +
-                                "譜面)</b></td>");
-                        }
-                        obj_sep = $("<tr class='table-dark' style='text-align:center' id='" + mark + info[i].level +
-                            "'></tr>");
-                        obj_sep.appendTo(obj);
-                        count = 0;
-                        x = info[i].level;
-                    }
+obj.html("");
+$("<thead class='table-dark'><tr><th>Level</th><th>Title (IR)</th><th>Artist (SongDL)</th><th>DL</th><th>Comment</th><th>Date</th></tr></thead><tbody>")
+    .appendTo(obj);
 
-                    var str = $("<tr></tr>");
+var obj_sep = null;
+for (var i = 0; i < info.length; i++) {
+    if (x != info[i].level) {
+        if (obj_sep != null) {
+            obj_sep.html("<td colspan='6'><b>" + mark + x + " (" + count + "譜面)</b></td>");
+        }
+        // 譜面数行として "score-summary" クラスを追加
+        obj_sep = $("<tr class='table-dark score-summary' style='text-align:center' id='" + mark + info[i].level + "'></tr>");
+        obj_sep.appendTo(obj);
+        count = 0;
+        x = info[i].level;
+    }
 
-                    // Level
-                    $("<td width='5%'>" + mark + x + "</td>").appendTo(str);
+    var str = $("<tr></tr>");
 
-                    // Title
-                    if (info[i].md5 != "" && info[i].md5 != null) {
-                        $("<td width='30%'>" +
-                            "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i]
-                            .md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
-                    }
-                    else{
-                        $("<td width='30%'>" +
-                            "<a href='https://mocha-repository.info/song.php?sha256=" + info[i]
-                            .sha256 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
-                    }
+    // Level
+    $("<td width='5%'>" + mark + x + "</td>").appendTo(str);
 
-                    // Artist, url
-                    if (info[i].url != "" && info[i].url != null) {
-                        $("<td width='35%'>" +
-                            "<a href='" + info[i].url +
-                            "' target='_blank'>" + info[i].artist + "</a></td>").appendTo(str);
-                    }
-                    else{
-                        $("<td width='35%'>" + info[i].artist + "</td>").appendTo(str);
-                    }
+    // Title
+    if (info[i].md5 != "" && info[i].md5 != null) {
+        $("<td width='30%'>" +
+            "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
+    } else {
+        $("<td width='30%'>" +
+            "<a href='https://mocha-repository.info/song.php?sha256=" + info[i].sha256 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
+    }
+
+    // Artist, url
+    if (info[i].url != "" && info[i].url != null) {
+        $("<td width='35%'>" +
+            "<a href='" + info[i].url + "' target='_blank'>" + info[i].artist + "</a></td>").appendTo(str);
+    } else {
+        $("<td width='35%'>" + info[i].artist + "</td>").appendTo(str);
+    }
                     
-                    //sabun
-		    if (info[i].url_diff != "" && info[i].url_diff != null) {
-    			$("<td width='10%'>" +
-        		"<a href='" + info[i].url_diff + "' target='_blank'>" +
-        		"<img src='images/Download.png' alt='|⇩|' width='25' height='25'>" + // 画像を追加
-        		"</a></td>").appendTo(str);
-		    } else {
-    			$("<td width='10%'>非公開</td>").appendTo(str);
-		    }
+    // sabun
+    if (info[i].url_diff != "" && info[i].url_diff != null) {
+        $("<td width='10%'>" +
+            "<a href='" + info[i].url_diff + "' target='_blank'>" +
+            "<img src='images/Download.png' alt='|⇩|' width='25' height='25'>" +
+            "</a></td>").appendTo(str);
+    } else {
+        $("<td width='10%'>非公開</td>").appendTo(str);
+    }
                     
-                    // Comment
-                    $("<td width='20%'>" + info[i].comment + "</td>").appendTo(str);
+    // Comment
+    $("<td width='20%'>" + info[i].comment + "</td>").appendTo(str);
 
-		    // Date (日付)
-		    if (info[i].date && info[i].date !== "") {
-    			let dateObj = new Date(info[i].date);
-    			let formattedDate = dateObj.getFullYear() + "/" +
-                        ("0" + (dateObj.getMonth() + 1)).slice(-2) + "/" +
-                        ("0" + dateObj.getDate()).slice(-2);
-    
-    			$("<td width='10%'>" + formattedDate + "</td>").appendTo(str);
-		    } else {
-    			$("<td width='10%'>-</td>").appendTo(str); // データがない場合は "-"
-		    }
+    // Date (日付)
+    if (info[i].date && info[i].date !== "") {
+        let dateObj = new Date(info[i].date);
+        let formattedDate = dateObj.getFullYear() + "/" +
+                            ("0" + (dateObj.getMonth() + 1)).slice(-2) + "/" +
+                            ("0" + dateObj.getDate()).slice(-2);
+        $("<td width='10%'>" + formattedDate + "</td>").appendTo(str);
+    } else {
+        $("<td width='10%'>-</td>").appendTo(str);
+    }
 
-		    str.appendTo(obj);
-                    count++;
-                }
-                $("</tbody>").appendTo(obj);
+    str.appendTo(obj);
+    count++;
+}
+$("</tbody>").appendTo(obj);
 
-                if (obj_sep != null) {
-                    obj_sep.html("<td class='table-dark' style='text-align:center' colspan='6'>" + "<b>" + mark + x +
-                        " (" + count + "譜面)</b></td>");
-                }
+if (obj_sep != null) {
+    obj_sep.html("<td class='table-dark score-summary' style='text-align:center' colspan='6'><b>" + mark + x + " (" + count + "譜面)</b></td>");
+}
             }
         </script>
     </div>
