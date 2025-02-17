@@ -1,7 +1,7 @@
 /* ダークモード全体のスタイル */
 body {
-    background-color: #121212; /* 背景を暗く */
-    color: #ffffff; /* 文字色を明るく */
+    background-color: #181a1b; /* 背景を暗く */
+    color: #e8e6e3; /* 文字色を明るく */
 }
 
 .navbar {
@@ -25,7 +25,7 @@ body {
 }
 
 a {
-    color: #8ab4f8; /* 明るい青色にしてリンクを目立たせる */
+    color: #005fb8; /* 明るい青色にしてリンクを目立たせる */
     text-decoration: none;
 }
 
