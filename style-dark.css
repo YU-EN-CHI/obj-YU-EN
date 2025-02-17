@@ -18,7 +18,7 @@ body {
 
 /* アラートボックスの枠線の色を #ff4242 に変更 */
 .alert-success {
-    border-color: #ff4242 !important;
+    border-color: #ff6464 !important;
 }
 
 /* 📋 テーブル全体のスタイル */
