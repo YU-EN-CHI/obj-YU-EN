@@ -1,12 +1,12 @@
 /* 🌑 ページ全体のダークテーマ設定 */
 body {
-  background-color: #1a1d1e;
+  background-color: #211e1e;
   color: #d8d4cf;
 }
 
 html, body {
-  border-color: #736b5e; /* Dark Reader の border 色 */
-  color: #e8e6e3; /* Dark Reader のテキスト色 */
+  border-color: #736b5e;
+  color: #e8e6e3;
 }
 
 * {
@@ -15,7 +15,7 @@ html, body {
 
 /* 🏠 ナビゲーションバー */
 .navbar {
-    background-color: #1c1e1f !important;
+    background-color: #17191a !important;
     color: #e8e6e3 !important;
 }
 
@@ -38,7 +38,7 @@ html, body {
 
 /* ヘッダー行のスタイル */
 thead th {
-    background-color: #1c1e1f !important;
+    background-color: #17191a !important;
     color: #e8e6e3;
 }
 
