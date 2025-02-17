@@ -1,12 +1,12 @@
 /* 🌑 ページ全体のダークテーマ設定 */
 body {
-    background-color: #181a1b; /* 背景を暗く */
+    background-color: #202426; /* 背景を暗く */
     color: #e8e6e3; /* 文字色を明るく */
 }
 
 /* 🏠 ナビゲーションバー */
 .navbar {
-    background-color: #1e1e1e;
+    background-color: #1c1e1f;
     color: #ffffff;
 }
 
