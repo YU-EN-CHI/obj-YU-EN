@@ -33,15 +33,6 @@ thead th {
     color: #e8e6e3;
 }
 
-/* 🎨 楽曲行 */
-.table-striped tbody tr:not(.table-dark):nth-child(odd) {
-    background-color: #242729 !important;
-}
-
-.table-striped tbody tr:not(.table-dark):nth-child(even) {
-    background-color: #1b1e1f !important;
-}
-
 /* 🔗 リンクのスタイル */
 a {
     color: #2394fd;
@@ -50,15 +41,4 @@ a {
 
 a:hover {
     color: #a9d1ff; /* ホバー時の色 */
-}
-
-/* 🔘 ボタンや入力フォームのスタイル */
-button, input, textarea {
-    background-color: #1e1e1e;
-    color: #e8e6e3;
-    border: 1px solid #444444;
-}
-
-button:hover {
-    background-color: #333333;
 }
