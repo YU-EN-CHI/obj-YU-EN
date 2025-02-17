@@ -158,14 +158,14 @@ function makeBMSTable(info, mark, order) {
                     }
                     
                     //sabun
-                    if (info[i].url_diff != "" && info[i].url_diff != null) {
-                        $("<td width='10%'>" +
-                            "<a href='" + info[i].url_diff +
-                            "' target='_blank'>" + "|⇩|" + "</a></td>").appendTo(str);
-                    }
-                    else{
-                        $("<td width='10%'>" + "非公開" + "</td>").appendTo(str);
-                    }
+		    if (info[i].url_diff != "" && info[i].url_diff != null) {
+    			$("<td width='10%'>" +
+        		"<a href='" + info[i].url_diff + "' target='_blank'>" +
+        		"<img src='images/Download.png' alt='|⇩|' width='20' height='20'>" + // 画像を追加
+        		"</a></td>").appendTo(str);
+		    } else {
+    			$("<td width='10%'>非公開</td>").appendTo(str);
+		    }
                     
                     // Comment
                     $("<td width='20%'>" + info[i].comment + "</td>").appendTo(str);
