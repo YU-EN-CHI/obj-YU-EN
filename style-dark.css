@@ -42,9 +42,19 @@ thead th {
     color: #e8e6e3;
 }
 
-/* 通常のテーブル行間ボーダー */
+/* 通常のテーブル行間ボーダー 
 .table-dark tbody tr {
     border-bottom: 1px solid #1e2121 !important;
+}*/
+
+/* 通常の行のボーダー */
+.table-dark tbody tr {
+    border-bottom: 1px solid #1e2121 !important;
+}
+
+/* 譜面数行（レベル行）の下のボーダー */
+.level-separator {
+    border-bottom: 2px solid #797063 !important;
 }
 
 /* 🎨 楽曲行（奇数行の背景色: #242729, 偶数行の背景色: #1b1e1f） */
