@@ -35,8 +35,16 @@ thead th {
     color: #ffffff; /* 文字色 */
 }
 
-/* 🎨 **ストライプテーブル（奇数行）をダーク用に変更** */
-.table-striped tbody tr:nth-of-type(odd) {
+/* 🎵 **譜面数行 (tr.table-dark) を常に固定色にする** */
+tr.table-dark td {
+    background-color: #292b2c !important; /* 濃い背景色で区別 */
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* 🎨 **ストライプ（奇数行）をダーク用に変更し、譜面数行を除外** */
+.table-striped tbody tr:not(.table-dark):nth-of-type(odd) {
     background-color: #252525 !important;
 }
 
