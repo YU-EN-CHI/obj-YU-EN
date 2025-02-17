@@ -6,8 +6,8 @@ body {
 
 /* 🏠 ナビゲーションバー */
 .navbar {
-    background-color: #1c1e1f;
-    color: #e8e6e3;
+    background-color: #1c1e1f !important;
+    color: #e8e6e3 !important;
 }
 
 /* 🔔 通知（アラート）ボックス */
@@ -18,7 +18,7 @@ body {
 
 /* アラートボックスの枠線の色を #ff4242 に変更 */
 .alert-success {
-    border-color: #ff6464 !important;
+    border-color: #ff9e9e !important;
 }
 
 /* 📋 テーブル全体のスタイル */
