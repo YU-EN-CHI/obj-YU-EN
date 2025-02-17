@@ -35,23 +35,9 @@ thead th {
     color: #ffffff; /* 文字色 */
 }
 
-/* 🎨 **ストライプテーブル（楽曲データ行のみ適用）** */
-.table-striped tbody tr:not(.table-dark):nth-of-type(odd) {
-    background-color: #252525;
-}
-
-/* 🎵 **譜面数行 (tr.table-dark) をストライプの影響から完全に除外し、背景色を統一** */
-tr.table-dark {
-    background-color: #292b2c !important; /* 濃い背景色 */
-    color: #ffffff !important;
-}
-
-/* **譜面数行 (tr.table-dark) 内のセル (td) も確実に背景を統一** */
-tr.table-dark td {
-    background-color: #292b2c !important; /* セルごとに適用 */
-    color: #ffffff !important;
-    font-weight: bold;
-    text-align: center;
+/* 🎨 **ストライプテーブル（奇数行）をダーク用に変更** */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #252525 !important;
 }
 
 /* 🔗 リンクのスタイル */
