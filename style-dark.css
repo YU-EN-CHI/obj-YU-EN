@@ -38,16 +38,7 @@ thead th {
     color: #e8e6e3;
 }
 
-/* 🎵　譜面数行 (tr.table-dark) のスタイルを統一 */
-/* 動かない！！！！！！！！！！！！！！！！！！！！ */
-tr.table-dark {
-    background-color: #292b2c !important;
-    color: #e8e6e3 !important;
-    font-weight: bold;
-    text-align: center;
-}
-
-/* 🎨 楽曲行（奇数行の背景色: #242729, 偶数行の背景色: #1b1e1f） */
+/* 🎨 楽曲行 */
 .table-striped tbody tr:not(.table-dark):nth-child(odd) {
     background-color: #242729 !important;
 }
