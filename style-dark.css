@@ -1,62 +1,65 @@
-/* 🌑 ページ全体のダークテーマ設定 */
+/* ページ全体のダークテーマ設定 */
 body {
     background-color: #181a1b; /* 背景を暗く */
     color: #e8e6e3; /* 文字色を明るく */
 }
 
-/* 🏠 ナビゲーションバー */
+/* ナビゲーションバー */
 .navbar {
     background-color: #1e1e1e;
     color: #ffffff;
 }
 
-/* 🔔 通知（アラート）ボックス */
+/* アラートボックス */
 .alert-success {
     background-color: #333333; /* 背景を暗めの灰色 */
-    color: #d4d4d4; /* 文字色を落ち着いた白に */
+    color: #d4d4d4;
 }
 
-/* 📋 **テーブル全体のスタイル** */
-/* テーブルの基本色をダークに */
+/* テーブル全体のスタイル */
+/* ここでは、table-darkクラスは主に背景色・文字色の基礎設定に使用 */
 .table {
     background-color: #1e1e1e;
     color: #d4d4d4;
 }
 
-/* ヘッダー行のスタイル */
+/* テーブルヘッダー */
 thead th {
-    background-color: #1c1e1f !important;
+    background-color: #333333 !important;
     color: #ffffff;
 }
 
-/* 🖥 **楽曲データ部分（tbody の通常行）** */
-.table-dark tbody tr {
-    background-color: #1e1e1e !important; /* ダーク背景 */
-    color: #ffffff; /* 文字色 */
+/* ★ 譜面数行（Score Summary Rows）：tbody内で、class="table-dark" の行は常に統一 */
+tbody tr.table-dark {
+    background-color: #292b2c !important;
+    color: #ffffff !important;
+    font-weight: bold;
+    text-align: center;
 }
 
-/* 🎨 **ストライプテーブル（奇数行）をダーク用に変更** */
-.table-striped tbody tr:nth-of-type(odd) {
-    background-color: #252525 !important;
+/* ★ 楽曲行（Song Rows）：table-stripedの対象で、table-darkが付いていない行にストライプを適用 */
+.table-striped tbody tr:not(.table-dark):nth-child(odd) {
+    background-color: #2c3034 !important; /* 奇数行：#2c3034 */
+}
+.table-striped tbody tr:not(.table-dark):nth-child(even) {
+    background-color: #212529 !important; /* 偶数行：#212529 */
 }
 
-/* 🔗 リンクのスタイル */
+/* リンクのスタイル */
 a {
     color: #3399ff; /* 明るい青 */
     text-decoration: none;
 }
-
 a:hover {
-    color: #a9d1ff; /* ホバー時の色 */
+    color: #a9d1ff;
 }
 
-/* 🔘 ボタンや入力フォームのスタイル */
+/* ボタンや入力フォーム */
 button, input, textarea {
     background-color: #1e1e1e;
     color: #ffffff;
     border: 1px solid #444444;
 }
-
 button:hover {
     background-color: #333333;
 }
