@@ -7,19 +7,19 @@ body {
 /* 🏠 ナビゲーションバー */
 .navbar {
     background-color: #1c1e1f;
-    color: #ffffff;
+    color: #e8e6e3;
 }
 
 /* 🔔 通知（アラート）ボックス */
 .alert-success {
     background-color: #333333; /* 背景を暗めの灰色 */
-    color: #d4d4d4; /* 文字色を落ち着いた白に */
+    color: #e8e6e3; /* 文字色を落ち着いた白に */
 }
 
 /* 📋 テーブル全体のスタイル */
 .table {
     background-color: #1e1e1e;
-    color: #d4d4d4;
+    color: #e8e6e3;
 }
 
 /* テーブルの行間ボーダーの色を変更 */
@@ -36,7 +36,7 @@ thead th {
 /* 🎵 **譜面数行 (tr.table-dark) のスタイルを統一** */
 tr.table-dark {
     background-color: #292b2c !important; /* 統一された濃い背景色 */
-    color: #ffffff !important;
+    color: #e8e6e3 !important;
     font-weight: bold;
     text-align: center;
 }
@@ -59,7 +59,7 @@ a:hover {
 /* 🔘 ボタンや入力フォームのスタイル */
 button, input, textarea {
     background-color: #1e1e1e;
-    color: #ffffff;
+    color: #e8e6e3;
     border: 1px solid #444444;
 }
 
