@@ -35,10 +35,16 @@ thead th {
     color: #ffffff; /* 文字色 */
 }
 
-/* 🎵 **譜面数行 (tr.table-dark) を常に固定色にする** */
+/* 🎵 **譜面数行 (tr.table-dark) をストライプの影響を受けないよう固定** */
+tr.table-dark {
+    background-color: #292b2c !important; /* 濃い背景色 */
+    color: #ffffff !important;
+}
+
+/* **譜面数行 (tr.table-dark) 内の td の背景色も統一** */
 tr.table-dark td {
-    background-color: #292b2c !important; /* 濃い背景色で区別 */
-    color: #ffffff;
+    background-color: #292b2c !important; /* 必要なら個別の td にも適用 */
+    color: #ffffff !important;
     font-weight: bold;
     text-align: center;
 }
