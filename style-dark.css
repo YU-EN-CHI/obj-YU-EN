@@ -44,7 +44,7 @@ tr.table-dark td {
 }
 
 /* 🎨 **ストライプテーブル（奇数行）をダーク用に変更** */
-.table-striped tbody tr:nth-of-type(odd) {
+.table-striped tbody tr:nth-of-type(odd):not(.table-dark) {
     background-color: #252525 !important;
 }
 
