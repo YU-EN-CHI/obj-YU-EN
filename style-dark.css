@@ -27,11 +27,6 @@ body {
     color: #e8e6e3;
 }
 
-/* テーブルの行間ボーダーの色を変更 */
-.table tbody tr {
-    border-bottom: 1px solid #797063 !important;
-}
-
 /* ヘッダー行のスタイル */
 thead th {
     background-color: #1c1e1f !important;
