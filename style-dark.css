@@ -51,13 +51,13 @@ thead th {
   text-align: center;
 }
 
-/* ★ 楽曲行（song-row）：ストライプ効果を適用（譜面数行を除く） */
+/* ★ 楽曲行（song-row）：ストライプ効果を適用（譜面数行を除く） 
 .table-striped tbody tr:not(.score-summary):nth-child(odd) {
-  background-color: #242729 !important; /* 奇数行 */
+  background-color: #242729 !important;
 }
 .table-striped tbody tr:not(.score-summary):nth-child(even) {
-  background-color: #1b1e1f !important; /* 偶数行 */
-}
+  background-color: #1b1e1f !important;
+}*/
 
 /* 🔗 リンクのスタイル */
 a {
