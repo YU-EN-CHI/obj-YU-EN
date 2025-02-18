@@ -1,6 +1,6 @@
 /* 🌑 ページ全体のダークテーマ設定 */
 body {
-  background-color: #1e2121;
+  background-color: #181a1b;
   color: #d8d4cf;
 }
 
@@ -15,15 +15,15 @@ html, body {
 
 /* 🏠 ナビゲーションバー */
 .navbar {
-  background-color: #17191a !important;
+  background-color: #121415 !important;
   color: #e8e6e3 !important;
 }
 
 /* 🔔 通知（アラート）ボックス */
 .alert-success {
-  background-color: #2b2121;
+  background-color: #221a1a;
   color: #e8e6e3;
-  border-color: #830000 !important;
+  border-color: #d80000 !important;
 }
 
 /* 📋 テーブル全体のスタイル */
@@ -34,30 +34,30 @@ html, body {
 
 /* ヘッダー行のスタイル */
 thead th {
-  background-color: #17191a !important;
+  background-color: #121415 !important;
   color: #e8e6e3;
 }
 
 /* 通常の行のボーダー */
 .table-dark tbody tr {
-  border-bottom: 1px solid #1e2121 !important;
+  border-bottom: 1px solid #82786a !important;
 }
 
 /* ★ 譜面数行（score-summary）：常に背景色 #292b2c に固定 */
 .table-striped tbody tr.score-summary {
-  background-color: #292b2c !important;
-  color: #ffffff !important;
+  background-color: #17191a !important;
+  color: #e8e6e3 !important;
   font-weight: bold;
   text-align: center;
 }
 
-/* ★ 楽曲行（song-row）：ストライプ効果を適用（譜面数行を除く） 
-.table-striped tbody tr:not(.score-summary):nth-child(odd) {
+/* ★ 楽曲行（song-row）：ストライプ効果を適用（譜面数行を除く） */
+.table-striped tbody tr:nth-child(odd) {
   background-color: #242729 !important;
 }
-.table-striped tbody tr:not(.score-summary):nth-child(even) {
-  background-color: #1b1e1f !important;
-}*/
+.table-striped tbody tr:nth-child(even) {
+  background-color: #1c1e1f !important;
+}
 
 /* 🔗 リンクのスタイル */
 a {
@@ -71,7 +71,7 @@ a:hover {
 /* 🔘 ボタンや入力フォームのスタイル */
 button, input, textarea {
   background-color: #1e1e1e;
-  color: #ffffff;
+  color: #e8e6e3;
   border: 1px solid #444444;
 }
 button:hover {
