@@ -57,19 +57,20 @@ thead th {
     border-bottom: 2px solid #797063 !important;
 }
 
-/* 譜面数行（score-summary）の背景色を統一 */
-.score-summary {
+/* 譜面数行：常に固定の背景色 */
+tr.score-summary, .score-summary-cell {
     background-color: #292b2c !important;
     color: #ffffff !important;
     font-weight: bold;
     text-align: center;
 }
 
-/* 楽曲行には、.table-striped の効果を譜面数行以外に適用 */
-.table-striped tbody tr:not(.score-summary):nth-child(odd) {
+/* 楽曲行：ストライプ効果を適用 */
+/* ※対象は song-row クラスが付いた行のみ */
+tr.song-row:nth-child(odd) {
     background-color: #242729 !important; /* 奇数行 */
 }
-.table-striped tbody tr:not(.score-summary):nth-child(even) {
+tr.song-row:nth-child(even) {
     background-color: #1b1e1f !important; /* 偶数行 */
 }
 
