@@ -53,17 +53,24 @@ thead th {
 }
 
 /* 譜面数行（レベル行）の下のボーダー */
-.level-separator {
+.score-summary {
     border-bottom: 2px solid #797063 !important;
 }
 
-/* 🎨 楽曲行（奇数行の背景色: #242729, 偶数行の背景色: #1b1e1f） */
-.table-striped tbody tr:not(.table-dark):nth-child(odd) {
-    background-color: #242729 !important;
+/* 譜面数行（score-summary）の背景色を統一 */
+.score-summary {
+    background-color: #292b2c !important;
+    color: #ffffff !important;
+    font-weight: bold;
+    text-align: center;
 }
 
-.table-striped tbody tr:not(.table-dark):nth-child(even) {
-    background-color: #1b1e1f !important;
+/* 楽曲行には、.table-striped の効果を譜面数行以外に適用 */
+.table-striped tbody tr:not(.score-summary):nth-child(odd) {
+    background-color: #242729 !important; /* 奇数行 */
+}
+.table-striped tbody tr:not(.score-summary):nth-child(even) {
+    background-color: #1b1e1f !important; /* 偶数行 */
 }
 
 /* 🔗 リンクのスタイル */
