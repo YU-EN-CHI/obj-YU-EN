@@ -140,8 +140,7 @@ for (var i = 0; i < info.length; i++) {
         $("<td width='30%'>" +
             "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>")
             .appendTo(str);
-    }
-    else{
+    } else {
         $("<td width='30%'>" +
             "<a href='https://mocha-repository.info/song.php?sha256=" + info[i].sha256 + "' target='_blank'>" + info[i].title + "</a></td>")
             .appendTo(str);
@@ -164,7 +163,7 @@ for (var i = 0; i < info.length; i++) {
             "<img src='images/Download.png' alt='Download' width='25' height='25'>" +
             "</a></td>")
             .appendTo(str);
-	} else if(info[i].url_diff == "同梱"){
+	} else if(info[i].url_diff === "同梱") {
         $("<td width='10%'>同梱譜面</td>").appendTo(str);
     } else {
         $("<td width='10%'>非公開</td>").appendTo(str);
