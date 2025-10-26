@@ -157,14 +157,14 @@ for (var i = 0; i < info.length; i++) {
     }
                     
     // sabun
-    if (info[i].url_diff != "" && info[i].url_diff != null) {
+	if(info[i].url_diff === "同梱") {
+        $("<td width='10%'>同梱譜面</td>").appendTo(str);
+	} else if (info[i].url_diff != "" && info[i].url_diff != null) {
         $("<td width='10%'>" +
             "<a href='" + info[i].url_diff + "' target='_blank'>" +
             "<img src='images/Download.png' alt='Download' width='25' height='25'>" +
             "</a></td>")
             .appendTo(str);
-	} else if(info[i].url_diff === "同梱") {
-        $("<td width='10%'>同梱譜面</td>").appendTo(str);
     } else {
         $("<td width='10%'>非公開</td>").appendTo(str);
     }
