@@ -1,0 +1,1962 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE Atmospheric DnB
+#TITLE GRAYSCALE
+#ARTIST ‚¦‚Ñ‚Å‚·
+#BPM 166
+#PLAYLEVEL 99
+#RANK 3
+
+#SUBTITLE [7KEY INSANE "RAIN"+] - BMS ver
+#SUBARTIST illust:‚Ò‚¥‚é‚»‚ñ obj:YU-EN
+
+#DIFFICULTY 5
+#TOTAL 300
+#LNTYPE 1
+
+#WAV01 DRUM_break_slow.wav-0-494131.wav
+#WAV02 BASS_808.wav-0-1020143+FX_voice.wav-0-2987+DRUM_fx.wav-0-3319+FX_whisper.wav-0-3651+KEY_pad_1.wav-0-3983+KEY_pad_2+3.wav-0-4316+KEY_pad_4.wav-0-4648.wav
+#WAV03 DRUM_break_midi_1.wav-0-510071.wav
+#WAV04 DRUM_break_wav_1+2.wav-0-2024348.wav
+#WAV05 DRUM_break_midi_2.wav-0-510071.wav
+#WAV06 DRUM_break_slow_delay.wav-0-1514276.wav
+#WAV07 KEY_melo_1+2.wav-0-988264.wav
+#WAV08 KEY_arp_1+2.wav-0-7968.wav
+#WAV09 FX_noise_1+2.wav-0-1211420.wav
+#WAV0A FX_voice.wav-2988-2056227.wav
+#WAV0B DRUM_fx.wav-3320-956384.wav
+#WAV0C FX_whisper.wav-3652-1526230.wav
+#WAV0D KEY_pad_1.wav-3984-1016158.wav
+#WAV0E KEY_pad_2+3.wav-4317-1020143.wav
+#WAV0F KEY_pad_4.wav-4649-940444.wav
+#WAV0G KEY_arp_1+2.wav-7969-15938.wav
+#WAV0H KEY_arp_1+2.wav-15939-23908.wav
+#WAV0I KEY_arp_1+2.wav-23909-31878.wav
+#WAV0J KEY_arp_1+2.wav-31879-39848.wav
+#WAV0K KEY_arp_1+2.wav-39849-47818.wav
+#WAV0L KEY_arp_1+2.wav-47819-55788.wav
+#WAV0M KEY_arp_1+2.wav-55789-63758.wav
+#WAV0N KEY_arp_1+2.wav-63759-71727.wav
+#WAV0O KEY_arp_1+2.wav-71728-79697.wav
+#WAV0P KEY_arp_1+2.wav-79698-87667.wav
+#WAV0Q KEY_arp_1+2.wav-87668-95637.wav
+#WAV0R KEY_arp_1+2.wav-95638-103607.wav
+#WAV0S KEY_arp_1+2.wav-103608-111577.wav
+#WAV0T KEY_arp_1+2.wav-111578-119547.wav
+#WAV0U KEY_arp_1+2.wav-119548-127517.wav
+#WAV0V KEY_arp_1+2.wav-127518-135486.wav
+#WAV0W KEY_arp_1+2.wav-135487-143456.wav
+#WAV0X KEY_arp_1+2.wav-143457-151426.wav
+#WAV0Y KEY_arp_1+2.wav-151427-159396.wav
+#WAV0Z KEY_arp_1+2.wav-159397-167366.wav
+#WAV10 KEY_arp_1+2.wav-167367-175336.wav
+#WAV11 KEY_arp_1+2.wav-175337-183306.wav
+#WAV12 KEY_arp_1+2.wav-183307-191276.wav
+#WAV13 KEY_arp_1+2.wav-191277-199246.wav
+#WAV14 KEY_arp_1+2.wav-199247-207215.wav
+#WAV15 KEY_arp_1+2.wav-207216-215185.wav
+#WAV16 KEY_arp_1+2.wav-215186-223155.wav
+#WAV17 KEY_arp_1+2.wav-223156-231125.wav
+#WAV18 KEY_arp_1+2.wav-231126-239095.wav
+#WAV19 KEY_arp_1+2.wav-239096-247065.wav
+#WAV1A KEY_arp_1+2.wav-247066-255035.wav
+#WAV1B KEY_arp_1+2.wav-255036-263005.wav
+#WAV1C KEY_arp_1+2.wav-263006-270974.wav
+#WAV1D KEY_arp_1+2.wav-270975-278944.wav
+#WAV1E KEY_arp_1+2.wav-278945-286914.wav
+#WAV1F KEY_arp_1+2.wav-286915-294884.wav
+#WAV1G KEY_arp_1+2.wav-294885-302854.wav
+#WAV1H KEY_arp_1+2.wav-302855-310824.wav
+#WAV1I KEY_arp_1+2.wav-310825-318794.wav
+#WAV1J KEY_arp_1+2.wav-318795-326764.wav
+#WAV1K KEY_arp_1+2.wav-326765-334733.wav
+#WAV1L KEY_arp_1+2.wav-334734-342703.wav
+#WAV1M KEY_arp_1+2.wav-342704-350673.wav
+#WAV1N KEY_arp_1+2.wav-350674-358643.wav
+#WAV1O KEY_arp_1+2.wav-358644-366613.wav
+#WAV1P KEY_arp_1+2.wav-366614-374583.wav
+#WAV1Q KEY_arp_1+2.wav-374584-382553.wav
+#WAV1R KEY_arp_1+2.wav-382554-390523.wav
+#WAV1S KEY_arp_1+2.wav-390524-398493.wav
+#WAV1T KEY_arp_1+2.wav-398494-406462.wav
+#WAV1U KEY_arp_1+2.wav-406463-414432.wav
+#WAV1V KEY_arp_1+2.wav-414433-422402.wav
+#WAV1W KEY_arp_1+2.wav-422403-430372.wav
+#WAV1X KEY_arp_1+2.wav-430373-438342.wav
+#WAV1Y KEY_arp_1+2.wav-438343-446312.wav
+#WAV1Z KEY_arp_1+2.wav-446313-454282.wav
+#WAV20 KEY_arp_1+2.wav-454283-462252.wav
+#WAV21 KEY_arp_1+2.wav-462253-470221.wav
+#WAV22 KEY_arp_1+2.wav-470222-478191.wav
+#WAV23 KEY_arp_1+2.wav-478192-486161.wav
+#WAV24 KEY_arp_1+2.wav-486162-494131.wav
+#WAV25 DRUM_break_slow.wav-494132-2279384.wav
+#WAV26 KEY_arp_1+2.wav-494132-502101.wav
+#WAV27 KEY_arp_1+2.wav-502102-510071.wav
+#WAV28 DRUM_break_midi_1.wav-510072-526011.wav
+#WAV29 DRUM_break_midi_2.wav-510072-518041.wav
+#WAV2A KEY_arp_1+2.wav-510072-518041.wav
+#WAV2B DRUM_break_midi_2.wav-518042-526011.wav
+#WAV2C KEY_arp_1+2.wav-518042-526011.wav
+#WAV2D DRUM_break_midi_1.wav-526012-533980.wav
+#WAV2E DRUM_break_midi_2.wav-526012-549920.wav
+#WAV2F KEY_arp_1+2.wav-526012-533980.wav
+#WAV2G DRUM_break_midi_1.wav-533981-537965.wav
+#WAV2H KEY_arp_1+2.wav-533981-541950.wav
+#WAV2I DRUM_break_midi_1.wav-537966-541950.wav
+#WAV2J DRUM_break_midi_1.wav-541951-545935.wav
+#WAV2K KEY_arp_1+2.wav-541951-549920.wav
+#WAV2L DRUM_break_midi_1.wav-545936-549920.wav
+#WAV2M KEY_arp_1+2.wav-549921-557890.wav
+#WAV2N DRUM_break_midi_1.wav-549921-557890.wav
+#WAV2O DRUM_break_midi_2.wav-549921-557890.wav
+#WAV2P DRUM_break_midi_1.wav-557891-565860.wav
+#WAV2Q DRUM_break_midi_2.wav-557891-573830.wav
+#WAV2R KEY_arp_1+2.wav-557891-565860.wav
+#WAV2S DRUM_break_midi_1.wav-565861-569845.wav
+#WAV2T KEY_arp_1+2.wav-565861-573830.wav
+#WAV2U DRUM_break_midi_1.wav-569846-573830.wav
+#WAV2V DRUM_break_midi_1.wav-573831-581800.wav
+#WAV2W DRUM_break_midi_2.wav-573831-589770.wav
+#WAV2X KEY_arp_1+2.wav-573831-581800.wav
+#WAV2Y DRUM_break_midi_1.wav-581801-589770.wav
+#WAV2Z KEY_arp_1+2.wav-581801-589770.wav
+#WAV30 DRUM_break_midi_1.wav-589771-597739.wav
+#WAV31 DRUM_break_midi_2.wav-589771-613679.wav
+#WAV32 KEY_arp_1+2.wav-589771-597739.wav
+#WAV33 KEY_arp_1+2.wav-597740-605709.wav
+#WAV34 DRUM_break_midi_1.wav-597740-601724.wav
+#WAV35 DRUM_break_midi_1.wav-601725-605709.wav
+#WAV36 DRUM_break_midi_1.wav-605710-609694.wav
+#WAV37 KEY_arp_1+2.wav-605710-613679.wav
+#WAV38 DRUM_break_midi_1.wav-609695-613679.wav
+#WAV39 DRUM_break_midi_1.wav-613680-621649.wav
+#WAV3A DRUM_break_midi_2.wav-613680-621649.wav
+#WAV3B KEY_arp_1+2.wav-613680-621649.wav
+#WAV3C DRUM_break_midi_1.wav-621650-629619.wav
+#WAV3D DRUM_break_midi_2.wav-621650-637589.wav
+#WAV3E KEY_arp_1+2.wav-621650-629619.wav
+#WAV3F DRUM_break_midi_1.wav-629620-633604.wav
+#WAV3G KEY_arp_1+2.wav-629620-637589.wav
+#WAV3H DRUM_break_midi_1.wav-633605-637589.wav
+#WAV3I DRUM_break_midi_1.wav-637590-645559.wav
+#WAV3J DRUM_break_midi_2.wav-637590-653529.wav
+#WAV3K KEY_arp_1+2.wav-637590-645559.wav
+#WAV3L DRUM_break_midi_1.wav-645560-653529.wav
+#WAV3M KEY_arp_1+2.wav-645560-653529.wav
+#WAV3N DRUM_break_midi_1.wav-653530-661499.wav
+#WAV3O DRUM_break_midi_2.wav-653530-677438.wav
+#WAV3P KEY_arp_1+2.wav-653530-661499.wav
+#WAV3Q DRUM_break_midi_1.wav-661500-665483.wav
+#WAV3R KEY_arp_1+2.wav-661500-669468.wav
+#WAV3S DRUM_break_midi_1.wav-665484-669468.wav
+#WAV3T DRUM_break_midi_1.wav-669469-673453.wav
+#WAV3U KEY_arp_1+2.wav-669469-677438.wav
+#WAV3V DRUM_break_midi_1.wav-673454-677438.wav
+#WAV3W KEY_arp_1+2.wav-677439-685408.wav
+#WAV3X DRUM_break_midi_1.wav-677439-685408.wav
+#WAV3Y DRUM_break_midi_2.wav-677439-685408.wav
+#WAV3Z DRUM_break_midi_1.wav-685409-693378.wav
+#WAV40 DRUM_break_midi_2.wav-685409-701348.wav
+#WAV41 KEY_arp_1+2.wav-685409-693378.wav
+#WAV42 DRUM_break_midi_1.wav-693379-697363.wav
+#WAV43 KEY_arp_1+2.wav-693379-701348.wav
+#WAV44 DRUM_break_midi_1.wav-697364-701348.wav
+#WAV45 DRUM_break_midi_1.wav-701349-709318.wav
+#WAV46 DRUM_break_midi_2.wav-701349-717288.wav
+#WAV47 KEY_arp_1+2.wav-701349-709318.wav
+#WAV48 DRUM_break_midi_1.wav-709319-717288.wav
+#WAV49 KEY_arp_1+2.wav-709319-717288.wav
+#WAV4A DRUM_break_midi_1.wav-717289-725258.wav
+#WAV4B DRUM_break_midi_2.wav-717289-741197.wav
+#WAV4C KEY_arp_1+2.wav-717289-725258.wav
+#WAV4D KEY_arp_1+2.wav-725259-733227.wav
+#WAV4E DRUM_break_midi_1.wav-725259-729243.wav
+#WAV4F DRUM_break_midi_1.wav-729244-733227.wav
+#WAV4G DRUM_break_midi_1.wav-733228-741197.wav
+#WAV4H KEY_arp_1+2.wav-733228-741197.wav
+#WAV4I DRUM_break_midi_1.wav-741198-749167.wav
+#WAV4J DRUM_break_midi_2.wav-741198-765107.wav
+#WAV4K KEY_arp_1+2.wav-741198-749167.wav
+#WAV4L DRUM_break_midi_1.wav-749168-753152.wav
+#WAV4M KEY_arp_1+2.wav-749168-757137.wav
+#WAV4N DRUM_break_midi_1.wav-753153-757137.wav
+#WAV4O DRUM_break_midi_1.wav-757138-765107.wav
+#WAV4P KEY_arp_1+2.wav-757138-765107.wav
+#WAV4Q DRUM_break_midi_1.wav-765108-773077.wav
+#WAV4R KEY_arp_1+2.wav-765108-773077.wav
+#WAV4S DRUM_break_midi_2.wav-765108-781047.wav
+#WAV4T DRUM_break_midi_1.wav-773078-781047.wav
+#WAV4U KEY_arp_1+2.wav-773078-781047.wav
+#WAV4V DRUM_break_midi_1.wav-781048-789017.wav
+#WAV4W DRUM_break_midi_2.wav-781048-804956.wav
+#WAV4X KEY_arp_1+2.wav-781048-789017.wav
+#WAV4Y DRUM_break_midi_1.wav-789018-793002.wav
+#WAV4Z KEY_arp_1+2.wav-789018-796986.wav
+#WAV50 DRUM_break_midi_1.wav-793003-796986.wav
+#WAV51 DRUM_break_midi_1.wav-796987-800971.wav
+#WAV52 KEY_arp_1+2.wav-796987-804956.wav
+#WAV53 DRUM_break_midi_1.wav-800972-804956.wav
+#WAV54 DRUM_break_midi_1.wav-804957-812926.wav
+#WAV55 DRUM_break_midi_2.wav-804957-812926.wav
+#WAV56 KEY_arp_1+2.wav-804957-812926.wav
+#WAV57 DRUM_break_midi_1.wav-812927-820896.wav
+#WAV58 KEY_arp_1+2.wav-812927-820896.wav
+#WAV59 DRUM_break_midi_2.wav-812927-828866.wav
+#WAV5A DRUM_break_midi_1.wav-820897-824881.wav
+#WAV5B KEY_arp_1+2.wav-820897-828866.wav
+#WAV5C DRUM_break_midi_1.wav-824882-828866.wav
+#WAV5D DRUM_break_midi_1.wav-828867-836836.wav
+#WAV5E DRUM_break_midi_2.wav-828867-836836.wav
+#WAV5F KEY_arp_1+2.wav-828867-836836.wav
+#WAV5G DRUM_break_midi_1.wav-836837-844806.wav
+#WAV5H DRUM_break_midi_2.wav-836837-844806.wav
+#WAV5I KEY_arp_1+2.wav-836837-844806.wav
+#WAV5J DRUM_break_midi_1.wav-844807-852776.wav
+#WAV5K DRUM_break_midi_2.wav-844807-868715.wav
+#WAV5L KEY_arp_1+2.wav-844807-852776.wav
+#WAV5M DRUM_break_midi_1.wav-852777-856761.wav
+#WAV5N KEY_arp_1+2.wav-852777-860746.wav
+#WAV5O DRUM_break_midi_1.wav-856762-860746.wav
+#WAV5P KEY_arp_1+2.wav-860747-868715.wav
+#WAV5Q DRUM_break_midi_1.wav-860747-864730.wav
+#WAV5R DRUM_break_midi_1.wav-864731-868715.wav
+#WAV5S DRUM_break_midi_1.wav-868716-876685.wav
+#WAV5T DRUM_break_midi_2.wav-868716-876685.wav
+#WAV5U KEY_arp_1+2.wav-868716-876685.wav
+#WAV5V DRUM_break_midi_1.wav-876686-884655.wav
+#WAV5W DRUM_break_midi_2.wav-876686-892625.wav
+#WAV5X KEY_arp_1+2.wav-876686-884655.wav
+#WAV5Y DRUM_break_midi_1.wav-884656-888640.wav
+#WAV5Z KEY_arp_1+2.wav-884656-892625.wav
+#WAV60 DRUM_break_midi_1.wav-888641-892625.wav
+#WAV61 KEY_arp_1+2.wav-892626-900595.wav
+#WAV62 DRUM_break_midi_1.wav-892626-900595.wav
+#WAV63 DRUM_break_midi_2.wav-892626-908565.wav
+#WAV64 DRUM_break_midi_1.wav-900596-908565.wav
+#WAV65 KEY_arp_1+2.wav-900596-908565.wav
+#WAV66 DRUM_break_midi_1.wav-908566-916535.wav
+#WAV67 DRUM_break_midi_2.wav-908566-932474.wav
+#WAV68 KEY_arp_1+2.wav-908566-916535.wav
+#WAV69 DRUM_break_midi_1.wav-916536-920520.wav
+#WAV6A KEY_arp_1+2.wav-916536-924505.wav
+#WAV6B DRUM_break_midi_1.wav-920521-924505.wav
+#WAV6C DRUM_break_midi_1.wav-924506-928489.wav
+#WAV6D KEY_arp_1+2.wav-924506-932474.wav
+#WAV6E DRUM_break_midi_1.wav-928490-932474.wav
+#WAV6F DRUM_break_midi_1.wav-932475-940444.wav
+#WAV6G DRUM_break_midi_2.wav-932475-940444.wav
+#WAV6H KEY_arp_1+2.wav-932475-948414.wav
+#WAV6I KEY_pad_4.wav-940445-2151866.wav
+#WAV6J DRUM_break_midi_1.wav-940445-948414.wav
+#WAV6K DRUM_break_midi_2.wav-940445-1526230.wav
+#WAV6L DRUM_break_midi_1.wav-948415-952399.wav
+#WAV6M KEY_arp_1+2.wav-948415-2040288.wav
+#WAV6N DRUM_break_midi_1.wav-952400-1530215.wav
+#WAV6O DRUM_fx.wav-956385-3056447.wav
+#WAV6P KEY_melo_1+2.wav-988265-1020143.wav
+#WAV6Q KEY_pad_1.wav-1016159-2231565.wav
+#WAV6R BASS_808.wav-1020144-1044053.wav
+#WAV6S KEY_melo_1+2.wav-1020144-1243300.wav
+#WAV6T KEY_pad_2+3.wav-1020144-1530215.wav
+#WAV6U BASS_808.wav-1044054-1067962.wav
+#WAV6V BASS_808.wav-1067963-1227360.wav
+#WAV6W FX_noise_1+2.wav-1211421-2486601.wav
+#WAV6X BASS_808.wav-1227361-1251270.wav
+#WAV6Y KEY_melo_1+2.wav-1243301-1259239.wav
+#WAV6Z BASS_808.wav-1251271-1275179.wav
+#WAV70 KEY_melo_1+2.wav-1259240-1275179.wav
+#WAV71 BASS_808.wav-1275180-1299089.wav
+#WAV72 KEY_melo_1+2.wav-1275180-1498336.wav
+#WAV73 BASS_808.wav-1299090-1324991.wav
+#WAV74 BASS_808.wav-1324992-1482396.wav
+#WAV75 BASS_808.wav-1482397-1508298.wav
+#WAV76 KEY_melo_1+2.wav-1498337-1530215.wav
+#WAV77 BASS_808.wav-1508299-1530215.wav
+#WAV78 DRUM_break_slow_delay.wav-1514277-2470661.wav
+#WAV79 DRUM_break_midi_2.wav-1526231-1538185+FX_whisper.wav-1526231-3841480.wav
+#WAV7A BASS_808.wav-1530216-2247505.wav
+#WAV7B DRUM_break_midi_1.wav-1530216-1538185.wav
+#WAV7C KEY_melo_1+2.wav-1530216-1753372.wav
+#WAV7D KEY_pad_2+3.wav-1530216-1785252.wav
+#WAV7E DRUM_break_midi_1.wav-1538186-1546155.wav
+#WAV7F DRUM_break_midi_2.wav-1538186-1546155.wav
+#WAV7G DRUM_break_midi_1.wav-1546156-1554125.wav
+#WAV7H DRUM_break_midi_2.wav-1546156-1570065.wav
+#WAV7I DRUM_break_midi_1.wav-1554126-1558110.wav
+#WAV7J DRUM_break_midi_1.wav-1558111-1562095.wav
+#WAV7K DRUM_break_midi_1.wav-1562096-1566080.wav
+#WAV7L DRUM_break_midi_1.wav-1566081-1570065.wav
+#WAV7M DRUM_break_midi_1.wav-1570066-1578035.wav
+#WAV7N DRUM_break_midi_2.wav-1570066-1578035.wav
+#WAV7O DRUM_break_midi_1.wav-1578036-1586005.wav
+#WAV7P DRUM_break_midi_2.wav-1578036-1593974.wav
+#WAV7Q DRUM_break_midi_1.wav-1586006-1589989.wav
+#WAV7R DRUM_break_midi_1.wav-1589990-1593974.wav
+#WAV7S DRUM_break_midi_1.wav-1593975-1601944.wav
+#WAV7T DRUM_break_midi_2.wav-1593975-1601944.wav
+#WAV7U DRUM_break_midi_1.wav-1601945-1609914.wav
+#WAV7V DRUM_break_midi_2.wav-1601945-1609914.wav
+#WAV7W DRUM_break_midi_1.wav-1609915-1617884.wav
+#WAV7X DRUM_break_midi_2.wav-1609915-1633824.wav
+#WAV7Y DRUM_break_midi_1.wav-1617885-1621869.wav
+#WAV7Z DRUM_break_midi_1.wav-1621870-1625854.wav
+#WAV80 DRUM_break_midi_1.wav-1625855-1629839.wav
+#WAV81 DRUM_break_midi_1.wav-1629840-1633824.wav
+#WAV82 DRUM_break_midi_1.wav-1633825-1641794.wav
+#WAV83 DRUM_break_midi_2.wav-1633825-1641794.wav
+#WAV84 DRUM_break_midi_1.wav-1641795-1649764.wav
+#WAV85 DRUM_break_midi_2.wav-1641795-1657733.wav
+#WAV86 DRUM_break_midi_1.wav-1649765-1653749.wav
+#WAV87 DRUM_break_midi_1.wav-1653750-1657733.wav
+#WAV88 DRUM_break_midi_1.wav-1657734-1665703.wav
+#WAV89 DRUM_break_midi_2.wav-1657734-1665703.wav
+#WAV8A DRUM_break_midi_1.wav-1665704-1673673.wav
+#WAV8B DRUM_break_midi_2.wav-1665704-1673673.wav
+#WAV8C DRUM_break_midi_1.wav-1673674-1681643.wav
+#WAV8D DRUM_break_midi_2.wav-1673674-1697583.wav
+#WAV8E DRUM_break_midi_1.wav-1681644-1685628.wav
+#WAV8F DRUM_break_midi_1.wav-1685629-1689613.wav
+#WAV8G DRUM_break_midi_1.wav-1689614-1693598.wav
+#WAV8H DRUM_break_midi_1.wav-1693599-1697583.wav
+#WAV8I DRUM_break_midi_1.wav-1697584-1705553.wav
+#WAV8J DRUM_break_midi_2.wav-1697584-1705553.wav
+#WAV8K DRUM_break_midi_1.wav-1705554-1713523.wav
+#WAV8L DRUM_break_midi_2.wav-1705554-1721493.wav
+#WAV8M DRUM_break_midi_1.wav-1713524-1717508.wav
+#WAV8N DRUM_break_midi_1.wav-1717509-1721493.wav
+#WAV8O DRUM_break_midi_1.wav-1721494-1729462.wav
+#WAV8P DRUM_break_midi_2.wav-1721494-1729462.wav
+#WAV8Q DRUM_break_midi_1.wav-1729463-1737432.wav
+#WAV8R DRUM_break_midi_2.wav-1729463-1737432.wav
+#WAV8S DRUM_break_midi_1.wav-1737433-1745402.wav
+#WAV8T DRUM_break_midi_2.wav-1737433-1745402.wav
+#WAV8U DRUM_break_midi_1.wav-1745403-1753372.wav
+#WAV8V DRUM_break_midi_2.wav-1745403-1761342.wav
+#WAV8W DRUM_break_midi_1.wav-1753373-1757357.wav
+#WAV8X KEY_melo_1+2.wav-1753373-1769312.wav
+#WAV8Y DRUM_break_midi_1.wav-1757358-1761342.wav
+#WAV8Z DRUM_break_midi_1.wav-1761343-1769312.wav
+#WAV90 DRUM_break_midi_2.wav-1761343-1785252.wav
+#WAV91 DRUM_break_midi_1.wav-1769313-1773297.wav
+#WAV92 KEY_melo_1+2.wav-1769313-1785252.wav
+#WAV93 DRUM_break_midi_1.wav-1773298-1777282.wav
+#WAV94 DRUM_break_midi_1.wav-1777283-1785252.wav
+#WAV95 DRUM_break_midi_1.wav-1785253-1793221.wav
+#WAV96 DRUM_break_midi_2.wav-1785253-1793221.wav
+#WAV97 KEY_melo_1+2.wav-1785253-2343143.wav
+#WAV98 KEY_pad_2+3.wav-1785253-2566300.wav
+#WAV99 DRUM_break_midi_1.wav-1793222-1801191.wav
+#WAV9A DRUM_break_midi_2.wav-1793222-1801191.wav
+#WAV9B DRUM_break_midi_1.wav-1801192-1809161.wav
+#WAV9C DRUM_break_midi_2.wav-1801192-1825101.wav
+#WAV9D DRUM_break_midi_1.wav-1809162-1813146.wav
+#WAV9E DRUM_break_midi_1.wav-1813147-1817131.wav
+#WAV9F DRUM_break_midi_1.wav-1817132-1821116.wav
+#WAV9G DRUM_break_midi_1.wav-1821117-1825101.wav
+#WAV9H DRUM_break_midi_1.wav-1825102-1833071.wav
+#WAV9I DRUM_break_midi_2.wav-1825102-1833071.wav
+#WAV9J DRUM_break_midi_1.wav-1833072-1841041.wav
+#WAV9K DRUM_break_midi_2.wav-1833072-1849011.wav
+#WAV9L DRUM_break_midi_1.wav-1841042-1845026.wav
+#WAV9M DRUM_break_midi_1.wav-1845027-1849011.wav
+#WAV9N DRUM_break_midi_1.wav-1849012-1856980.wav
+#WAV9O DRUM_break_midi_2.wav-1849012-1856980.wav
+#WAV9P DRUM_break_midi_1.wav-1856981-1864950.wav
+#WAV9Q DRUM_break_midi_2.wav-1856981-1864950.wav
+#WAV9R DRUM_break_midi_1.wav-1864951-1872920.wav
+#WAV9S DRUM_break_midi_2.wav-1864951-1888860.wav
+#WAV9T DRUM_break_midi_1.wav-1872921-1876905.wav
+#WAV9U DRUM_break_midi_1.wav-1876906-1880890.wav
+#WAV9V DRUM_break_midi_1.wav-1880891-1884875.wav
+#WAV9W DRUM_break_midi_1.wav-1884876-1888860.wav
+#WAV9X DRUM_break_midi_1.wav-1888861-1896830.wav
+#WAV9Y DRUM_break_midi_2.wav-1888861-1896830.wav
+#WAV9Z DRUM_break_midi_1.wav-1896831-1904800.wav
+#WAVA0 DRUM_break_midi_2.wav-1896831-1912770.wav
+#WAVA1 DRUM_break_midi_1.wav-1904801-1908785.wav
+#WAVA2 DRUM_break_midi_1.wav-1908786-1912770.wav
+#WAVA3 DRUM_break_midi_1.wav-1912771-1920739.wav
+#WAVA4 DRUM_break_midi_2.wav-1912771-1920739.wav
+#WAVA5 DRUM_break_midi_1.wav-1920740-1928709.wav
+#WAVA6 DRUM_break_midi_2.wav-1920740-1928709.wav
+#WAVA7 DRUM_break_midi_1.wav-1928710-1936679.wav
+#WAVA8 DRUM_break_midi_2.wav-1928710-1952619.wav
+#WAVA9 DRUM_break_midi_1.wav-1936680-1940664.wav
+#WAVAA DRUM_break_midi_1.wav-1940665-1944649.wav
+#WAVAB DRUM_break_midi_1.wav-1944650-1948634.wav
+#WAVAC DRUM_break_midi_1.wav-1948635-1952619.wav
+#WAVAD DRUM_break_midi_1.wav-1952620-1960589.wav
+#WAVAE DRUM_break_midi_2.wav-1952620-1960589.wav
+#WAVAF DRUM_break_midi_1.wav-1960590-1968559.wav
+#WAVAG DRUM_break_midi_2.wav-1960590-1976529.wav
+#WAVAH DRUM_break_midi_1.wav-1968560-1972544.wav
+#WAVAI DRUM_break_midi_1.wav-1972545-1976529.wav
+#WAVAJ DRUM_break_midi_1.wav-1976530-1984499.wav
+#WAVAK DRUM_break_midi_2.wav-1976530-1984499.wav
+#WAVAL DRUM_break_midi_1.wav-1984500-1992468.wav
+#WAVAM DRUM_break_midi_2.wav-1984500-1992468.wav
+#WAVAN DRUM_break_midi_1.wav-1992469-2000438.wav
+#WAVAO DRUM_break_midi_2.wav-1992469-2000438.wav
+#WAVAP DRUM_break_midi_1.wav-2000439-2008408.wav
+#WAVAQ DRUM_break_midi_2.wav-2000439-2040288.wav
+#WAVAR DRUM_break_midi_1.wav-2008409-2012393.wav
+#WAVAS DRUM_break_midi_1.wav-2012394-2016378.wav
+#WAVAT DRUM_break_midi_1.wav-2016379-2024348.wav
+#WAVAU DRUM_break_midi_1.wav-2024349-2028333.wav
+#WAVAV DRUM_break_wav_1+2.wav-2024349-2028333.wav
+#WAVAW DRUM_break_midi_1.wav-2028334-2032318.wav
+#WAVAX DRUM_break_wav_1+2.wav-2028334-2032318.wav
+#WAVAY DRUM_break_midi_1.wav-2032319-2040288.wav
+#WAVAZ DRUM_break_wav_1+2.wav-2032319-2056227.wav
+#WAVB0 DRUM_break_midi_1.wav-2040289-2048258.wav
+#WAVB1 DRUM_break_midi_2.wav-2040289-2048258.wav
+#WAVB2 KEY_arp_1+2.wav-2040289-2295324.wav
+#WAVB3 DRUM_break_midi_1.wav-2048259-2056227.wav
+#WAVB4 DRUM_break_midi_2.wav-2048259-2056227.wav
+#WAVB5 FX_voice.wav-2056228-2072167.wav
+#WAVB6 DRUM_break_midi_1.wav-2056228-2064197.wav
+#WAVB7 DRUM_break_wav_1+2.wav-2056228-2104047.wav
+#WAVB8 DRUM_break_midi_2.wav-2056228-2080137.wav
+#WAVB9 DRUM_break_midi_1.wav-2064198-2068182.wav
+#WAVBA DRUM_break_midi_1.wav-2068183-2072167.wav
+#WAVBB DRUM_break_midi_1.wav-2072168-2076152.wav
+#WAVBC FX_voice.wav-2072168-2088107.wav
+#WAVBD DRUM_break_midi_1.wav-2076153-2080137.wav
+#WAVBE DRUM_break_midi_1.wav-2080138-2088107.wav
+#WAVBF DRUM_break_midi_2.wav-2080138-2088107.wav
+#WAVBG DRUM_break_midi_1.wav-2088108-2096077.wav
+#WAVBH DRUM_break_midi_2.wav-2088108-2104047.wav
+#WAVBI FX_voice.wav-2088108-2104047.wav
+#WAVBJ DRUM_break_midi_1.wav-2096078-2100062.wav
+#WAVBK DRUM_break_midi_1.wav-2100063-2104047.wav
+#WAVBL DRUM_break_midi_1.wav-2104048-2112017.wav
+#WAVBM DRUM_break_wav_1+2.wav-2104048-2143896.wav
+#WAVBN DRUM_break_midi_2.wav-2104048-2112017.wav
+#WAVBO FX_voice.wav-2104048-2199685.wav
+#WAVBP DRUM_break_midi_1.wav-2112018-2119986.wav
+#WAVBQ DRUM_break_midi_2.wav-2112018-2119986.wav
+#WAVBR DRUM_break_midi_1.wav-2119987-2127956.wav
+#WAVBS DRUM_break_midi_2.wav-2119987-2143896.wav
+#WAVBT DRUM_break_midi_1.wav-2127957-2131941.wav
+#WAVBU DRUM_break_midi_1.wav-2131942-2135926.wav
+#WAVBV DRUM_break_midi_1.wav-2135927-2139911.wav
+#WAVBW DRUM_break_midi_1.wav-2139912-2143896.wav
+#WAVBX DRUM_break_midi_1.wav-2143897-2151866.wav
+#WAVBY DRUM_break_wav_1+2.wav-2143897-2167806.wav
+#WAVBZ DRUM_break_midi_2.wav-2143897-2151866.wav
+#WAVC0 DRUM_break_midi_1.wav-2151867-2159836.wav
+#WAVC1 DRUM_break_midi_2.wav-2151867-2167806.wav
+#WAVC2 KEY_pad_4.wav-2151867-3060432.wav
+#WAVC3 DRUM_break_midi_1.wav-2159837-2163821.wav
+#WAVC4 DRUM_break_midi_1.wav-2163822-2167806.wav
+#WAVC5 DRUM_break_midi_1.wav-2167807-2175776.wav
+#WAVC6 DRUM_break_wav_1+2.wav-2167807-2207655.wav
+#WAVC7 DRUM_break_midi_2.wav-2167807-2175776.wav
+#WAVC8 DRUM_break_midi_1.wav-2175777-2183746.wav
+#WAVC9 DRUM_break_midi_2.wav-2175777-2183746.wav
+#WAVCA DRUM_break_midi_1.wav-2183747-2191715.wav
+#WAVCB DRUM_break_midi_2.wav-2183747-2207655.wav
+#WAVCC DRUM_break_midi_1.wav-2191716-2195700.wav
+#WAVCD DRUM_break_midi_1.wav-2195701-2199685.wav
+#WAVCE DRUM_break_midi_1.wav-2199686-2203670.wav
+#WAVCF FX_voice.wav-2199686-2215625.wav
+#WAVCG DRUM_break_midi_1.wav-2203671-2207655.wav
+#WAVCH DRUM_break_midi_1.wav-2207656-2215625.wav
+#WAVCI DRUM_break_wav_1+2.wav-2207656-2247505.wav
+#WAVCJ DRUM_break_midi_2.wav-2207656-2215625.wav
+#WAVCK DRUM_break_midi_1.wav-2215626-2223595.wav
+#WAVCL DRUM_break_midi_2.wav-2215626-2239535.wav
+#WAVCM FX_voice.wav-2215626-2231565.wav
+#WAVCN DRUM_break_midi_1.wav-2223596-2227580.wav
+#WAVCO DRUM_break_midi_1.wav-2227581-2231565.wav
+#WAVCP DRUM_break_midi_1.wav-2231566-2239535.wav
+#WAVCQ FX_voice.wav-2231566-2566300.wav
+#WAVCR KEY_pad_1.wav-2231566-3602384.wav
+#WAVCS DRUM_break_midi_1.wav-2239536-2247505.wav
+#WAVCT DRUM_break_midi_2.wav-2239536-2247505.wav
+#WAVCU BASS_808.wav-2247506-2271414.wav
+#WAVCV DRUM_break_midi_1.wav-2247506-2255474.wav
+#WAVCW DRUM_break_wav_1+2.wav-2247506-2251489.wav
+#WAVCX DRUM_break_midi_2.wav-2247506-2259459.wav
+#WAVCY DRUM_break_wav_1+2.wav-2251490-2550360.wav
+#WAVCZ DRUM_break_midi_1.wav-2255475-2550360.wav
+#WAVD0 DRUM_break_midi_2.wav-2259460-2550360.wav
+#WAVD1 BASS_808.wav-2271415-2295324.wav
+#WAVD2 DRUM_break_slow.wav-2279385-3060432.wav
+#WAVD3 BASS_808.wav-2295325-2502541.wav
+#WAVD4 KEY_arp_1+2.wav-2295325-2303294.wav
+#WAVD5 KEY_arp_1+2.wav-2303295-2311264.wav
+#WAVD6 KEY_arp_1+2.wav-2311265-2319233.wav
+#WAVD7 KEY_arp_1+2.wav-2319234-2327203.wav
+#WAVD8 KEY_arp_1+2.wav-2327204-2335173.wav
+#WAVD9 KEY_arp_1+2.wav-2335174-2343143.wav
+#WAVDA KEY_melo_1+2.wav-2343144-2367053.wav
+#WAVDB KEY_arp_1+2.wav-2343144-2351113.wav
+#WAVDC KEY_arp_1+2.wav-2351114-2359083.wav
+#WAVDD KEY_arp_1+2.wav-2359084-2367053.wav
+#WAVDE KEY_melo_1+2.wav-2367054-2446752.wav
+#WAVDF KEY_arp_1+2.wav-2367054-2375023.wav
+#WAVDG KEY_arp_1+2.wav-2375024-2382993.wav
+#WAVDH KEY_arp_1+2.wav-2382994-2390962.wav
+#WAVDI KEY_arp_1+2.wav-2390963-2398932.wav
+#WAVDJ KEY_arp_1+2.wav-2398933-2406902.wav
+#WAVDK KEY_arp_1+2.wav-2406903-2414872.wav
+#WAVDL KEY_arp_1+2.wav-2414873-2422842.wav
+#WAVDM KEY_arp_1+2.wav-2422843-2430812.wav
+#WAVDN KEY_arp_1+2.wav-2430813-2438782.wav
+#WAVDO KEY_arp_1+2.wav-2438783-2446752.wav
+#WAVDP KEY_melo_1+2.wav-2446753-2470661.wav
+#WAVDQ KEY_arp_1+2.wav-2446753-2454721.wav
+#WAVDR KEY_arp_1+2.wav-2454722-2462691.wav
+#WAVDS KEY_arp_1+2.wav-2462692-2470661.wav
+#WAVDT DRUM_break_slow_delay.wav-2470662-3283589.wav
+#WAVDU KEY_melo_1+2.wav-2470662-2494571.wav
+#WAVDV KEY_arp_1+2.wav-2470662-2478631.wav
+#WAVDW KEY_arp_1+2.wav-2478632-2486601.wav
+#WAVDX KEY_arp_1+2.wav-2486602-2494571.wav
+#WAVDY FX_noise_1+2.wav-2486602-3825541.wav
+#WAVDZ KEY_melo_1+2.wav-2494572-2518480.wav
+#WAVE0 KEY_arp_1+2.wav-2494572-2502541.wav
+#WAVE1 BASS_808.wav-2502542-2528443.wav
+#WAVE2 KEY_arp_1+2.wav-2502542-2510511.wav
+#WAVE3 KEY_arp_1+2.wav-2510512-2518480.wav
+#WAVE4 KEY_melo_1+2.wav-2518481-2853215.wav
+#WAVE5 KEY_arp_1+2.wav-2518481-2526450.wav
+#WAVE6 KEY_arp_1+2.wav-2526451-2534420.wav
+#WAVE7 BASS_808.wav-2528444-2550360.wav
+#WAVE8 KEY_arp_1+2.wav-2534421-2540398.wav
+#WAVE9 KEY_arp_1+2.wav-2540399-2566300.wav
+#WAVEA BASS_808.wav-2550361-2574270.wav
+#WAVEB DRUM_break_midi_1.wav-2550361-2558330.wav
+#WAVEC DRUM_break_wav_1+2.wav-2550361-2558330.wav
+#WAVED DRUM_break_midi_2.wav-2550361-2558330.wav
+#WAVEE DRUM_break_midi_1.wav-2558331-2566300.wav
+#WAVEF DRUM_break_wav_1+2.wav-2558331-2614119.wav
+#WAVEG DRUM_break_midi_2.wav-2558331-2566300.wav
+#WAVEH KEY_arp_1+2.wav-2566301-2582239.wav
+#WAVEI DRUM_break_midi_1.wav-2566301-2582239.wav
+#WAVEJ DRUM_break_midi_2.wav-2566301-2578255.wav
+#WAVEK FX_voice.wav-2566301-2574270.wav
+#WAVEL KEY_pad_2+3.wav-2566301-2598179.wav
+#WAVEM BASS_808.wav-2574271-2757577.wav
+#WAVEN FX_voice.wav-2574271-2582239.wav
+#WAVEO DRUM_break_midi_2.wav-2578256-2614119.wav
+#WAVEP DRUM_break_midi_1.wav-2582240-2614119.wav
+#WAVEQ KEY_arp_1+2.wav-2582240-2598179.wav
+#WAVER FX_voice.wav-2582240-2590209.wav
+#WAVES FX_voice.wav-2590210-2598179.wav
+#WAVET FX_voice.wav-2598180-2606149.wav
+#WAVEU KEY_arp_1+2.wav-2598180-2805396.wav
+#WAVEV KEY_pad_2+3.wav-2598180-2614119.wav
+#WAVEW FX_voice.wav-2606150-2614119.wav
+#WAVEX FX_voice.wav-2614120-2630059.wav
+#WAVEY DRUM_break_midi_1.wav-2614120-2622089.wav
+#WAVEZ DRUM_break_wav_1+2.wav-2614120-2630059.wav
+#WAVF0 DRUM_break_midi_2.wav-2614120-2622089.wav
+#WAVF1 KEY_pad_2+3.wav-2614120-3331408.wav
+#WAVF2 DRUM_break_midi_1.wav-2622090-2630059.wav
+#WAVF3 DRUM_break_midi_2.wav-2622090-2630059.wav
+#WAVF4 DRUM_break_midi_1.wav-2630060-2638029.wav
+#WAVF5 DRUM_break_wav_1+2.wav-2630060-2653968.wav
+#WAVF6 DRUM_break_midi_2.wav-2630060-2653968.wav
+#WAVF7 FX_voice.wav-2630060-2638029.wav
+#WAVF8 DRUM_break_midi_1.wav-2638030-2642014.wav
+#WAVF9 FX_voice.wav-2638030-2645999.wav
+#WAVFA DRUM_break_midi_1.wav-2642015-2645999.wav
+#WAVFB FX_voice.wav-2646000-2661938.wav
+#WAVFC DRUM_break_midi_1.wav-2646000-2649983.wav
+#WAVFD DRUM_break_midi_1.wav-2649984-2653968.wav
+#WAVFE DRUM_break_midi_1.wav-2653969-2661938.wav
+#WAVFF DRUM_break_wav_1+2.wav-2653969-2661938.wav
+#WAVFG DRUM_break_midi_2.wav-2653969-2661938.wav
+#WAVFH DRUM_break_midi_1.wav-2661939-2669908.wav
+#WAVFI DRUM_break_wav_1+2.wav-2661939-2677878.wav
+#WAVFJ DRUM_break_midi_2.wav-2661939-2677878.wav
+#WAVFK FX_voice.wav-2661939-2669908.wav
+#WAVFL DRUM_break_midi_1.wav-2669909-2673893.wav
+#WAVFM FX_voice.wav-2669909-2677878.wav
+#WAVFN DRUM_break_midi_1.wav-2673894-2677878.wav
+#WAVFO FX_voice.wav-2677879-2693818.wav
+#WAVFP DRUM_break_midi_1.wav-2677879-2685848.wav
+#WAVFQ DRUM_break_wav_1+2.wav-2677879-2693818.wav
+#WAVFR DRUM_break_midi_2.wav-2677879-2685848.wav
+#WAVFS DRUM_break_midi_1.wav-2685849-2693818.wav
+#WAVFT DRUM_break_midi_2.wav-2685849-2693818.wav
+#WAVFU DRUM_break_midi_1.wav-2693819-2701788.wav
+#WAVFV DRUM_break_wav_1+2.wav-2693819-2717727.wav
+#WAVFW DRUM_break_midi_2.wav-2693819-2717727.wav
+#WAVFX FX_voice.wav-2693819-2701788.wav
+#WAVFY DRUM_break_midi_1.wav-2701789-2705773.wav
+#WAVFZ FX_voice.wav-2701789-2709758.wav
+#WAVG0 DRUM_break_midi_1.wav-2705774-2709758.wav
+#WAVG1 FX_voice.wav-2709759-2725697.wav
+#WAVG2 DRUM_break_midi_1.wav-2709759-2713743.wav
+#WAVG3 DRUM_break_midi_1.wav-2713744-2717727.wav
+#WAVG4 DRUM_break_midi_1.wav-2717728-2725697.wav
+#WAVG5 DRUM_break_wav_1+2.wav-2717728-2725697.wav
+#WAVG6 DRUM_break_midi_2.wav-2717728-2725697.wav
+#WAVG7 DRUM_break_midi_1.wav-2725698-2733667.wav
+#WAVG8 DRUM_break_wav_1+2.wav-2725698-2741637.wav
+#WAVG9 DRUM_break_midi_2.wav-2725698-2741637.wav
+#WAVGA FX_voice.wav-2725698-2757577.wav
+#WAVGB DRUM_break_midi_1.wav-2733668-2737652.wav
+#WAVGC DRUM_break_midi_1.wav-2737653-2741637.wav
+#WAVGD DRUM_break_midi_1.wav-2741638-2749607.wav
+#WAVGE DRUM_break_wav_1+2.wav-2741638-2749607.wav
+#WAVGF DRUM_break_midi_2.wav-2741638-2757577.wav
+#WAVGG DRUM_break_midi_1.wav-2749608-2757577.wav
+#WAVGH DRUM_break_wav_1+2.wav-2749608-2757577.wav
+#WAVGI BASS_808.wav-2757578-2781486.wav
+#WAVGJ DRUM_break_midi_1.wav-2757578-2765547.wav
+#WAVGK DRUM_break_wav_1+2.wav-2757578-2769532.wav
+#WAVGL DRUM_break_midi_2.wav-2757578-2773517.wav
+#WAVGM FX_voice.wav-2757578-3092312.wav
+#WAVGN DRUM_break_midi_1.wav-2765548-2996673.wav
+#WAVGO DRUM_break_wav_1+2.wav-2769533-4072607.wav
+#WAVGP DRUM_break_midi_2.wav-2773518-3044493.wav
+#WAVGQ BASS_808.wav-2781487-2805396.wav
+#WAVGR BASS_808.wav-2805397-3060432.wav
+#WAVGS KEY_arp_1+2.wav-2805397-2813366.wav
+#WAVGT KEY_arp_1+2.wav-2813367-2821336.wav
+#WAVGU KEY_arp_1+2.wav-2821337-2829306.wav
+#WAVGV KEY_arp_1+2.wav-2829307-2837276.wav
+#WAVGW KEY_arp_1+2.wav-2837277-2845246.wav
+#WAVGX KEY_arp_1+2.wav-2845247-2853215.wav
+#WAVGY KEY_melo_1+2.wav-2853216-2877125.wav
+#WAVGZ KEY_arp_1+2.wav-2853216-2861185.wav
+#WAVH0 KEY_arp_1+2.wav-2861186-2869155.wav
+#WAVH1 KEY_arp_1+2.wav-2869156-2877125.wav
+#WAVH2 KEY_melo_1+2.wav-2877126-2956824.wav
+#WAVH3 KEY_arp_1+2.wav-2877126-2885095.wav
+#WAVH4 KEY_arp_1+2.wav-2885096-2893065.wav
+#WAVH5 KEY_arp_1+2.wav-2893066-2901035.wav
+#WAVH6 KEY_arp_1+2.wav-2901036-2909005.wav
+#WAVH7 KEY_arp_1+2.wav-2909006-2916974.wav
+#WAVH8 KEY_arp_1+2.wav-2916975-2924944.wav
+#WAVH9 KEY_arp_1+2.wav-2924945-2932914.wav
+#WAVHA KEY_arp_1+2.wav-2932915-2940884.wav
+#WAVHB KEY_arp_1+2.wav-2940885-2948854.wav
+#WAVHC KEY_arp_1+2.wav-2948855-2956824.wav
+#WAVHD KEY_melo_1+2.wav-2956825-2980733.wav
+#WAVHE KEY_arp_1+2.wav-2956825-2964794.wav
+#WAVHF KEY_arp_1+2.wav-2964795-2972764.wav
+#WAVHG KEY_arp_1+2.wav-2972765-2980733.wav
+#WAVHH KEY_melo_1+2.wav-2980734-3004643.wav
+#WAVHI KEY_arp_1+2.wav-2980734-2988703.wav
+#WAVHJ KEY_arp_1+2.wav-2988704-2996673.wav
+#WAVHK DRUM_break_midi_1.wav-2996674-3004643.wav
+#WAVHL KEY_arp_1+2.wav-2996674-3004643.wav
+#WAVHM DRUM_break_midi_1.wav-3004644-3012613.wav
+#WAVHN KEY_melo_1+2.wav-3004644-3028553.wav
+#WAVHO KEY_arp_1+2.wav-3004644-3012613.wav
+#WAVHP DRUM_break_midi_1.wav-3012614-3020583.wav
+#WAVHQ KEY_arp_1+2.wav-3012614-3020583.wav
+#WAVHR DRUM_break_midi_1.wav-3020584-3028553.wav
+#WAVHS KEY_arp_1+2.wav-3020584-3028553.wav
+#WAVHT DRUM_break_midi_1.wav-3028554-3036523.wav
+#WAVHU KEY_melo_1+2.wav-3028554-5068842.wav
+#WAVHV KEY_arp_1+2.wav-3028554-3036523.wav
+#WAVHW DRUM_break_midi_1.wav-3036524-4016818.wav
+#WAVHX KEY_arp_1+2.wav-3036524-3044493.wav
+#WAVHY DRUM_break_midi_2.wav-3044494-3052462.wav
+#WAVHZ KEY_arp_1+2.wav-3044494-3052462.wav
+#WAVI0 DRUM_break_midi_2.wav-3052463-4016818.wav
+#WAVI1 KEY_arp_1+2.wav-3052463-5100721.wav
+#WAVI2 DRUM_fx.wav-3056448-4080577.wav
+#WAVI3 BASS_808.wav-3060433-4064637+KEY_pad_4.wav-3060433-4060652.wav
+#WAVI4 DRUM_break_slow.wav-3060433-3092312.wav
+#WAVI5 DRUM_break_slow.wav-3092313-3140131.wav
+#WAVI6 FX_voice.wav-3092313-3108252.wav
+#WAVI7 FX_voice.wav-3108253-3124191.wav
+#WAVI8 FX_voice.wav-3124192-3156071.wav
+#WAVI9 DRUM_break_slow.wav-3140132-3156071.wav
+#WAVIA DRUM_break_slow.wav-3156072-3187950.wav
+#WAVIB FX_voice.wav-3156072-3187950.wav
+#WAVIC DRUM_break_slow.wav-3187951-3219830.wav
+#WAVID FX_voice.wav-3187951-3219830.wav
+#WAVIE DRUM_break_slow.wav-3219831-3267649.wav
+#WAVIF FX_voice.wav-3219831-3235770.wav
+#WAVIG FX_voice.wav-3235771-3251709.wav
+#WAVIH FX_voice.wav-3251710-3331408.wav
+#WAVII DRUM_break_slow.wav-3267650-3315468.wav
+#WAVIJ DRUM_break_slow_delay.wav-3283590-3395167.wav
+#WAVIK DRUM_break_slow.wav-3315469-3331408.wav
+#WAVIL DRUM_break_slow.wav-3331409-3347348.wav
+#WAVIM FX_voice.wav-3331409-3339378.wav
+#WAVIN KEY_pad_2+3.wav-3331409-3347348.wav
+#WAVIO FX_voice.wav-3339379-3347348.wav
+#WAVIP DRUM_break_slow.wav-3347349-3395167.wav
+#WAVIQ FX_voice.wav-3347349-3355318.wav
+#WAVIR KEY_pad_2+3.wav-3347349-3395167.wav
+#WAVIS FX_voice.wav-3355319-3363288.wav
+#WAVIT FX_voice.wav-3363289-3371258.wav
+#WAVIU FX_voice.wav-3371259-3379227.wav
+#WAVIV FX_voice.wav-3379228-3395167.wav
+#WAVIW DRUM_break_slow.wav-3395168-3411107.wav
+#WAVIX DRUM_break_slow_delay.wav-3395168-3793661.wav
+#WAVIY FX_voice.wav-3395168-3403137.wav
+#WAVIZ KEY_pad_2+3.wav-3395168-3427047.wav
+#WAVJ0 FX_voice.wav-3403138-3411107.wav
+#WAVJ1 DRUM_break_slow.wav-3411108-3442986.wav
+#WAVJ2 FX_voice.wav-3411108-3427047.wav
+#WAVJ3 FX_voice.wav-3427048-3435017.wav
+#WAVJ4 KEY_pad_2+3.wav-3427048-3458926.wav
+#WAVJ5 FX_voice.wav-3435018-3442986.wav
+#WAVJ6 DRUM_break_slow.wav-3442987-3474866.wav
+#WAVJ7 FX_voice.wav-3442987-3458926.wav
+#WAVJ8 FX_voice.wav-3458927-3466896.wav
+#WAVJ9 KEY_pad_2+3.wav-3458927-3556557.wav
+#WAVJA FX_voice.wav-3466897-3474866.wav
+#WAVJB DRUM_break_slow.wav-3474867-3490806.wav
+#WAVJC FX_voice.wav-3474867-3490806.wav
+#WAVJD DRUM_break_slow.wav-3490807-3522685.wav
+#WAVJE FX_voice.wav-3490807-3522685.wav
+#WAVJF DRUM_break_slow.wav-3522686-3538625.wav
+#WAVJG FX_voice.wav-3522686-3602384.wav
+#WAVJH DRUM_break_slow.wav-3538626-3554565.wav
+#WAVJI DRUM_break_slow.wav-3554566-3570505.wav
+#WAVJJ KEY_pad_2+3.wav-3556558-3841480.wav
+#WAVJK DRUM_break_slow.wav-3570506-3602384.wav
+#WAVJL DRUM_break_slow.wav-3602385-3650203.wav
+#WAVJM KEY_pad_1.wav-3602385-4080577.wav
+#WAVJN FX_voice.wav-3602385-3618324.wav
+#WAVJO FX_voice.wav-3618325-3634264.wav
+#WAVJP FX_voice.wav-3634265-3666143.wav
+#WAVJQ DRUM_break_slow.wav-3650204-3666143.wav
+#WAVJR DRUM_break_slow.wav-3666144-3698023.wav
+#WAVJS FX_voice.wav-3666144-3698023.wav
+#WAVJT DRUM_break_slow.wav-3698024-3729902.wav
+#WAVJU FX_voice.wav-3698024-3729902.wav
+#WAVJV DRUM_break_slow.wav-3729903-3777721.wav
+#WAVJW FX_voice.wav-3729903-3745842.wav
+#WAVJX FX_voice.wav-3745843-3761782.wav
+#WAVJY FX_voice.wav-3761783-3841480.wav
+#WAVJZ DRUM_break_slow.wav-3777722-5355758.wav
+#WAVK0 DRUM_break_slow_delay.wav-3793662-5148541.wav
+#WAVK1 FX_noise_1+2.wav-3825542-5164480.wav
+#WAVK2 FX_voice.wav-3841481-3849450.wav
+#WAVK3 FX_whisper.wav-3841481-3857420.wav
+#WAVK4 KEY_pad_2+3.wav-3841481-3907232.wav
+#WAVK5 FX_voice.wav-3849451-3857420.wav
+#WAVK6 FX_voice.wav-3857421-3865390.wav
+#WAVK7 FX_whisper.wav-3857421-3907232.wav
+#WAVK8 FX_voice.wav-3865391-3873360.wav
+#WAVK9 FX_voice.wav-3873361-3881330.wav
+#WAVKA FX_voice.wav-3881331-3889300.wav
+#WAVKB FX_voice.wav-3889301-3907232.wav
+#WAVKC FX_voice.wav-3907233-3915202.wav
+#WAVKD FX_whisper.wav-3907233-3937119.wav
+#WAVKE KEY_pad_2+3.wav-3907233-4016818.wav
+#WAVKF FX_voice.wav-3915203-3921179.wav
+#WAVKG FX_voice.wav-3921180-3937119.wav
+#WAVKH FX_voice.wav-3937120-3945089.wav
+#WAVKI FX_whisper.wav-3937120-5092752.wav
+#WAVKJ FX_voice.wav-3945090-3953059.wav
+#WAVKK FX_voice.wav-3953060-3968999.wav
+#WAVKL FX_voice.wav-3969000-4016818.wav
+#WAVKM DRUM_break_midi_2.wav-4016819-4040727.wav
+#WAVKN DRUM_break_midi_1.wav-4016819-4024788.wav
+#WAVKO FX_voice.wav-4016819-4040727.wav
+#WAVKP KEY_pad_2+3.wav-4016819-4040727.wav
+#WAVKQ DRUM_break_midi_1.wav-4024789-4028773.wav
+#WAVKR DRUM_break_midi_1.wav-4028774-4032758.wav
+#WAVKS DRUM_break_midi_1.wav-4032759-4036743.wav
+#WAVKT DRUM_break_midi_1.wav-4036744-4040727.wav
+#WAVKU DRUM_break_midi_2.wav-4040728-4064637.wav
+#WAVKV DRUM_break_midi_1.wav-4040728-4048697.wav
+#WAVKW FX_voice.wav-4040728-4064637.wav
+#WAVKX KEY_pad_2+3.wav-4040728-5096736.wav
+#WAVKY DRUM_break_midi_1.wav-4048698-4052682.wav
+#WAVKZ DRUM_break_midi_1.wav-4052683-4056667.wav
+#WAVL0 DRUM_break_midi_1.wav-4056668-4060652.wav
+#WAVL1 DRUM_break_midi_1.wav-4060653-4064637.wav
+#WAVL2 KEY_pad_4.wav-4060653-4813806.wav
+#WAVL3 BASS_808.wav-4064638-4184185.wav
+#WAVL4 DRUM_break_midi_2.wav-4064638-4128396.wav
+#WAVL5 DRUM_break_midi_1.wav-4064638-4080577.wav
+#WAVL6 FX_voice.wav-4064638-4080577.wav
+#WAVL7 DRUM_break_wav_1+2.wav-4072608-4224035.wav
+#WAVL8 FX_voice.wav-4080578-4104486.wav
+#WAVL9 DRUM_break_midi_1.wav-4080578-4104486.wav
+#WAVLA DRUM_fx.wav-4080578-5068842.wav
+#WAVLB KEY_pad_1.wav-4080578-4082569.wav
+#WAVLC KEY_pad_1.wav-4082570-4084562.wav
+#WAVLD KEY_pad_1.wav-4084563-4086554.wav
+#WAVLE KEY_pad_1.wav-4086555-4088547.wav
+#WAVLF KEY_pad_1.wav-4088548-4090539.wav
+#WAVLG KEY_pad_1.wav-4090540-4092532.wav
+#WAVLH KEY_pad_1.wav-4092533-4094524.wav
+#WAVLI KEY_pad_1.wav-4094525-4096517.wav
+#WAVLJ KEY_pad_1.wav-4096518-4098509.wav
+#WAVLK KEY_pad_1.wav-4098510-4100502.wav
+#WAVLL KEY_pad_1.wav-4100503-4102494.wav
+#WAVLM KEY_pad_1.wav-4102495-4106479.wav
+#WAVLN DRUM_break_midi_1.wav-4104487-4108471.wav
+#WAVLO FX_voice.wav-4104487-4128396.wav
+#WAVLP KEY_pad_1.wav-4106480-4108471.wav
+#WAVLQ DRUM_break_midi_1.wav-4108472-4128396.wav
+#WAVLR KEY_pad_1.wav-4108472-4110464.wav
+#WAVLS KEY_pad_1.wav-4110465-4112456.wav
+#WAVLT KEY_pad_1.wav-4112457-4114449.wav
+#WAVLU KEY_pad_1.wav-4114450-4116441.wav
+#WAVLV KEY_pad_1.wav-4116442-4118434.wav
+#WAVLW KEY_pad_1.wav-4118435-4120426.wav
+#WAVLX KEY_pad_1.wav-4120427-4122419.wav
+#WAVLY KEY_pad_1.wav-4122420-4124411.wav
+#WAVLZ KEY_pad_1.wav-4124412-4130389.wav
+#WAVM0 DRUM_break_midi_1.wav-4128397-4154298.wav
+#WAVM1 DRUM_break_midi_2.wav-4128397-4208095.wav
+#WAVM2 FX_voice.wav-4128397-4152306.wav
+#WAVM3 KEY_pad_1.wav-4130390-4132381.wav
+#WAVM4 KEY_pad_1.wav-4132382-4134374.wav
+#WAVM5 KEY_pad_1.wav-4134375-4136366.wav
+#WAVM6 KEY_pad_1.wav-4136367-4138358.wav
+#WAVM7 KEY_pad_1.wav-4138359-4140351.wav
+#WAVM8 KEY_pad_1.wav-4140352-4142343.wav
+#WAVM9 KEY_pad_1.wav-4142344-4144336.wav
+#WAVMA KEY_pad_1.wav-4144337-4146328.wav
+#WAVMB KEY_pad_1.wav-4146329-4148321.wav
+#WAVMC KEY_pad_1.wav-4148322-4152306.wav
+#WAVMD KEY_pad_1.wav-4152307-4154298.wav
+#WAVME FX_voice.wav-4152307-4176215.wav
+#WAVMF DRUM_break_midi_1.wav-4154299-4160276.wav
+#WAVMG KEY_pad_1.wav-4154299-4156291.wav
+#WAVMH KEY_pad_1.wav-4156292-4158283.wav
+#WAVMI KEY_pad_1.wav-4158284-4160276.wav
+#WAVMJ KEY_pad_1.wav-4160277-4162268.wav
+#WAVMK DRUM_break_midi_1.wav-4160277-4208095.wav
+#WAVML KEY_pad_1.wav-4162269-4164261.wav
+#WAVMM KEY_pad_1.wav-4164262-4335613.wav
+#WAVMN FX_voice.wav-4176216-4184185.wav
+#WAVMO BASS_808.wav-4184186-4208095.wav
+#WAVMP FX_voice.wav-4184186-4192155.wav
+#WAVMQ FX_voice.wav-4192156-4216065.wav
+#WAVMR BASS_808.wav-4208096-4287794.wav
+#WAVMS DRUM_break_midi_1.wav-4208096-4216065.wav
+#WAVMT DRUM_break_midi_2.wav-4208096-4216065.wav
+#WAVMU DRUM_break_midi_1.wav-4216066-4224035.wav
+#WAVMV DRUM_break_midi_2.wav-4216066-4224035.wav
+#WAVMW FX_voice.wav-4216066-4295764.wav
+#WAVMX DRUM_break_midi_1.wav-4224036-4232005.wav
+#WAVMY DRUM_break_wav_1+2.wav-4224036-4247944.wav
+#WAVMZ DRUM_break_midi_2.wav-4224036-4247944.wav
+#WAVN0 DRUM_break_midi_1.wav-4232006-4235989.wav
+#WAVN1 DRUM_break_midi_1.wav-4235990-4239974.wav
+#WAVN2 DRUM_break_midi_1.wav-4239975-4243959.wav
+#WAVN3 DRUM_break_midi_1.wav-4243960-4247944.wav
+#WAVN4 DRUM_break_midi_1.wav-4247945-4255914.wav
+#WAVN5 DRUM_break_wav_1+2.wav-4247945-4255914.wav
+#WAVN6 DRUM_break_midi_2.wav-4247945-4255914.wav
+#WAVN7 DRUM_break_midi_1.wav-4255915-4263884.wav
+#WAVN8 DRUM_break_wav_1+2.wav-4255915-4271854.wav
+#WAVN9 DRUM_break_midi_2.wav-4255915-4271854.wav
+#WAVNA DRUM_break_midi_1.wav-4263885-4267869.wav
+#WAVNB DRUM_break_midi_1.wav-4267870-4271854.wav
+#WAVNC DRUM_break_midi_1.wav-4271855-4279824.wav
+#WAVND DRUM_break_wav_1+2.wav-4271855-4279824.wav
+#WAVNE DRUM_break_midi_2.wav-4271855-4287794.wav
+#WAVNF DRUM_break_midi_1.wav-4279825-4287794.wav
+#WAVNG DRUM_break_wav_1+2.wav-4279825-4287794.wav
+#WAVNH DRUM_break_midi_1.wav-4287795-4295764.wav
+#WAVNI BASS_808.wav-4287795-4694258.wav
+#WAVNJ DRUM_break_wav_1+2.wav-4287795-4295764.wav
+#WAVNK DRUM_break_midi_2.wav-4287795-4399372.wav
+#WAVNL DRUM_break_midi_1.wav-4295765-4303733.wav
+#WAVNM DRUM_break_wav_1+2.wav-4295765-4311703.wav
+#WAVNN FX_voice.wav-4295765-4303733.wav
+#WAVNO DRUM_break_midi_1.wav-4303734-4311703.wav
+#WAVNP FX_voice.wav-4303734-4311703.wav
+#WAVNQ DRUM_break_midi_1.wav-4311704-4319673.wav
+#WAVNR DRUM_break_wav_1+2.wav-4311704-4319673.wav
+#WAVNS FX_voice.wav-4311704-4319673.wav
+#WAVNT DRUM_break_wav_1+2.wav-4319674-4415312.wav
+#WAVNU DRUM_break_midi_1.wav-4319674-4323658.wav
+#WAVNV FX_voice.wav-4319674-4327643.wav
+#WAVNW DRUM_break_midi_1.wav-4323659-4399372.wav
+#WAVNX FX_voice.wav-4327644-4335613.wav
+#WAVNY KEY_pad_1.wav-4335614-4592642.wav
+#WAVNZ FX_voice.wav-4335614-4351553.wav
+#WAVO0 FX_voice.wav-4351554-4359523.wav
+#WAVO1 FX_voice.wav-4359524-4367493.wav
+#WAVO2 FX_voice.wav-4367494-4375462.wav
+#WAVO3 FX_voice.wav-4375463-4383432.wav
+#WAVO4 FX_voice.wav-4383433-4399372.wav
+#WAVO5 DRUM_break_midi_1.wav-4399373-4407342.wav
+#WAVO6 FX_voice.wav-4399373-4574709.wav
+#WAVO7 DRUM_break_midi_2.wav-4399373-4407342.wav
+#WAVO8 DRUM_break_midi_1.wav-4407343-4415312.wav
+#WAVO9 DRUM_break_midi_2.wav-4407343-4415312.wav
+#WAVOA DRUM_break_midi_1.wav-4415313-4423282.wav
+#WAVOB DRUM_break_wav_1+2.wav-4415313-4439221.wav
+#WAVOC DRUM_break_midi_2.wav-4415313-4439221.wav
+#WAVOD DRUM_break_midi_1.wav-4423283-4427267.wav
+#WAVOE DRUM_break_midi_1.wav-4427268-4431252.wav
+#WAVOF DRUM_break_midi_1.wav-4431253-4435236.wav
+#WAVOG DRUM_break_midi_1.wav-4435237-4439221.wav
+#WAVOH DRUM_break_midi_1.wav-4439222-4447191.wav
+#WAVOI DRUM_break_wav_1+2.wav-4439222-4447191.wav
+#WAVOJ DRUM_break_midi_2.wav-4439222-4447191.wav
+#WAVOK DRUM_break_midi_1.wav-4447192-4455161.wav
+#WAVOL DRUM_break_wav_1+2.wav-4447192-4463131.wav
+#WAVOM DRUM_break_midi_2.wav-4447192-4463131.wav
+#WAVON DRUM_break_midi_1.wav-4455162-4459146.wav
+#WAVOO DRUM_break_midi_1.wav-4459147-4463131.wav
+#WAVOP DRUM_break_midi_1.wav-4463132-4471101.wav
+#WAVOQ DRUM_break_wav_1+2.wav-4463132-4479071.wav
+#WAVOR DRUM_break_midi_2.wav-4463132-4471101.wav
+#WAVOS DRUM_break_midi_1.wav-4471102-4479071.wav
+#WAVOT DRUM_break_midi_2.wav-4471102-4479071.wav
+#WAVOU DRUM_break_midi_1.wav-4479072-4487041.wav
+#WAVOV DRUM_break_wav_1+2.wav-4479072-4502980.wav
+#WAVOW DRUM_break_midi_2.wav-4479072-4502980.wav
+#WAVOX DRUM_break_midi_1.wav-4487042-4491026.wav
+#WAVOY DRUM_break_midi_1.wav-4491027-4495011.wav
+#WAVOZ DRUM_break_midi_1.wav-4495012-4498996.wav
+#WAVP0 DRUM_break_midi_1.wav-4498997-4502980.wav
+#WAVP1 DRUM_break_midi_1.wav-4502981-4510950.wav
+#WAVP2 DRUM_break_wav_1+2.wav-4502981-4510950.wav
+#WAVP3 DRUM_break_midi_2.wav-4502981-4510950.wav
+#WAVP4 DRUM_break_midi_1.wav-4510951-4518920.wav
+#WAVP5 DRUM_break_wav_1+2.wav-4510951-4526890.wav
+#WAVP6 DRUM_break_midi_2.wav-4510951-4526890.wav
+#WAVP7 DRUM_break_midi_1.wav-4518921-4522905.wav
+#WAVP8 DRUM_break_midi_1.wav-4522906-4526890.wav
+#WAVP9 DRUM_break_midi_1.wav-4526891-4534860.wav
+#WAVPA DRUM_break_wav_1+2.wav-4526891-4534860.wav
+#WAVPB DRUM_break_midi_2.wav-4526891-4534860.wav
+#WAVPC DRUM_break_midi_1.wav-4534861-4542830.wav
+#WAVPD DRUM_break_wav_1+2.wav-4534861-4542830.wav
+#WAVPE DRUM_break_midi_2.wav-4534861-4542830.wav
+#WAVPF DRUM_break_midi_1.wav-4542831-4550800.wav
+#WAVPG DRUM_break_wav_1+2.wav-4542831-4550800.wav
+#WAVPH DRUM_break_midi_2.wav-4542831-4550800.wav
+#WAVPI DRUM_break_midi_1.wav-4550801-4558770.wav
+#WAVPJ DRUM_break_wav_1+2.wav-4550801-4558770.wav
+#WAVPK DRUM_break_midi_2.wav-4550801-4566739.wav
+#WAVPL DRUM_break_midi_1.wav-4558771-4562755.wav
+#WAVPM DRUM_break_wav_1+2.wav-4558771-4562755.wav
+#WAVPN DRUM_break_midi_1.wav-4562756-4566739.wav
+#WAVPO DRUM_break_wav_1+2.wav-4562756-4566739.wav
+#WAVPP DRUM_break_midi_1.wav-4566740-4574709.wav
+#WAVPQ DRUM_break_wav_1+2.wav-4566740-4574709.wav
+#WAVPR DRUM_break_midi_2.wav-4566740-4590649.wav
+#WAVPS FX_voice.wav-4574710-4590649.wav
+#WAVPT DRUM_break_midi_1.wav-4574710-4578694.wav
+#WAVPU DRUM_break_wav_1+2.wav-4574710-4578694.wav
+#WAVPV DRUM_break_midi_1.wav-4578695-4582679.wav
+#WAVPW DRUM_break_wav_1+2.wav-4578695-4582679.wav
+#WAVPX DRUM_break_midi_1.wav-4582680-4590649.wav
+#WAVPY DRUM_break_wav_1+2.wav-4582680-4590649.wav
+#WAVPZ DRUM_break_midi_1.wav-4590650-4606589.wav
+#WAVQ0 FX_voice.wav-4590650-4614559.wav
+#WAVQ1 DRUM_break_wav_1+2.wav-4590650-4734107.wav
+#WAVQ2 DRUM_break_midi_2.wav-4590650-4598619.wav
+#WAVQ3 KEY_pad_1.wav-4592643-4594634.wav
+#WAVQ4 KEY_pad_1.wav-4594635-4596627.wav
+#WAVQ5 KEY_pad_1.wav-4596628-4598619.wav
+#WAVQ6 DRUM_break_midi_2.wav-4598620-4638468.wav
+#WAVQ7 KEY_pad_1.wav-4598620-4600611.wav
+#WAVQ8 KEY_pad_1.wav-4600612-4602604.wav
+#WAVQ9 KEY_pad_1.wav-4602605-4604596.wav
+#WAVQA KEY_pad_1.wav-4604597-4608581.wav
+#WAVQB DRUM_break_midi_1.wav-4606590-4638468.wav
+#WAVQC KEY_pad_1.wav-4608582-4610574.wav
+#WAVQD KEY_pad_1.wav-4610575-4612566.wav
+#WAVQE KEY_pad_1.wav-4612567-4614559.wav
+#WAVQF FX_voice.wav-4614560-4638468.wav
+#WAVQG KEY_pad_1.wav-4614560-4616551.wav
+#WAVQH KEY_pad_1.wav-4616552-4618544.wav
+#WAVQI KEY_pad_1.wav-4618545-4620536.wav
+#WAVQJ KEY_pad_1.wav-4620537-4622529.wav
+#WAVQK KEY_pad_1.wav-4622530-4624521.wav
+#WAVQL KEY_pad_1.wav-4624522-4626514.wav
+#WAVQM KEY_pad_1.wav-4626515-4628506.wav
+#WAVQN KEY_pad_1.wav-4628507-4630499.wav
+#WAVQO KEY_pad_1.wav-4630500-4632491.wav
+#WAVQP KEY_pad_1.wav-4632492-4634483.wav
+#WAVQQ KEY_pad_1.wav-4634484-4640461.wav
+#WAVQR DRUM_break_midi_1.wav-4638469-4654408.wav
+#WAVQS DRUM_break_midi_2.wav-4638469-4646438.wav
+#WAVQT FX_voice.wav-4638469-4662378.wav
+#WAVQU KEY_pad_1.wav-4640462-4642453.wav
+#WAVQV KEY_pad_1.wav-4642454-4644446.wav
+#WAVQW KEY_pad_1.wav-4644447-4646438.wav
+#WAVQX DRUM_break_midi_2.wav-4646439-4718167.wav
+#WAVQY KEY_pad_1.wav-4646439-4648431.wav
+#WAVQZ KEY_pad_1.wav-4648432-4650423.wav
+#WAVR0 KEY_pad_1.wav-4650424-4652416.wav
+#WAVR1 KEY_pad_1.wav-4652417-4656401.wav
+#WAVR2 DRUM_break_midi_1.wav-4654409-4662378.wav
+#WAVR3 KEY_pad_1.wav-4656402-4658393.wav
+#WAVR4 KEY_pad_1.wav-4658394-4660386.wav
+#WAVR5 KEY_pad_1.wav-4660387-4662378.wav
+#WAVR6 DRUM_break_midi_1.wav-4662379-4718167.wav
+#WAVR7 FX_voice.wav-4662379-4686288.wav
+#WAVR8 KEY_pad_1.wav-4662379-4664371.wav
+#WAVR9 KEY_pad_1.wav-4664372-4666363.wav
+#WAVRA KEY_pad_1.wav-4666364-4668355.wav
+#WAVRB KEY_pad_1.wav-4668356-4670348.wav
+#WAVRC KEY_pad_1.wav-4670349-4672340.wav
+#WAVRD KEY_pad_1.wav-4672341-4674333.wav
+#WAVRE KEY_pad_1.wav-4674334-4841700.wav
+#WAVRF FX_voice.wav-4686289-4694258.wav
+#WAVRG BASS_808.wav-4694259-4718167.wav
+#WAVRH FX_voice.wav-4694259-4702227.wav
+#WAVRI FX_voice.wav-4702228-4718167.wav
+#WAVRJ FX_voice.wav-4718168-4813806.wav
+#WAVRK BASS_808.wav-4718168-4797866.wav
+#WAVRL DRUM_break_midi_1.wav-4718168-4726137.wav
+#WAVRM DRUM_break_midi_2.wav-4718168-4726137.wav
+#WAVRN DRUM_break_midi_1.wav-4726138-4734107.wav
+#WAVRO DRUM_break_midi_2.wav-4726138-4734107.wav
+#WAVRP DRUM_break_midi_1.wav-4734108-4742077.wav
+#WAVRQ DRUM_break_wav_1+2.wav-4734108-4758017.wav
+#WAVRR DRUM_break_midi_2.wav-4734108-4758017.wav
+#WAVRS DRUM_break_midi_1.wav-4742078-4746062.wav
+#WAVRT DRUM_break_midi_1.wav-4746063-4750047.wav
+#WAVRU DRUM_break_midi_1.wav-4750048-4754032.wav
+#WAVRV DRUM_break_midi_1.wav-4754033-4758017.wav
+#WAVRW DRUM_break_midi_1.wav-4758018-4765986.wav
+#WAVRX DRUM_break_wav_1+2.wav-4758018-4765986.wav
+#WAVRY DRUM_break_midi_2.wav-4758018-4765986.wav
+#WAVRZ DRUM_break_midi_1.wav-4765987-4773956.wav
+#WAVS0 DRUM_break_wav_1+2.wav-4765987-4781926.wav
+#WAVS1 DRUM_break_midi_2.wav-4765987-4781926.wav
+#WAVS2 DRUM_break_midi_1.wav-4773957-4777941.wav
+#WAVS3 DRUM_break_midi_1.wav-4777942-4781926.wav
+#WAVS4 DRUM_break_midi_1.wav-4781927-4789896.wav
+#WAVS5 DRUM_break_wav_1+2.wav-4781927-4797866.wav
+#WAVS6 DRUM_break_midi_2.wav-4781927-4789896.wav
+#WAVS7 DRUM_break_midi_1.wav-4789897-4797866.wav
+#WAVS8 DRUM_break_midi_2.wav-4789897-4797866.wav
+#WAVS9 DRUM_break_midi_1.wav-4797867-4805836.wav
+#WAVSA BASS_808.wav-4797867-5355758.wav
+#WAVSB DRUM_break_wav_1+2.wav-4797867-4805836.wav
+#WAVSC DRUM_break_midi_2.wav-4797867-4805836.wav
+#WAVSD DRUM_break_midi_1.wav-4805837-4813806.wav
+#WAVSE DRUM_break_wav_1+2.wav-4805837-4813806.wav
+#WAVSF DRUM_break_midi_2.wav-4805837-4829746.wav
+#WAVSG DRUM_break_midi_1.wav-4813807-4821776.wav
+#WAVSH FX_voice.wav-4813807-4821776.wav
+#WAVSI DRUM_break_wav_1+2.wav-4813807-4909444.wav
+#WAVSJ KEY_pad_4.wav-4813807-4857640.wav
+#WAVSK DRUM_break_midi_1.wav-4821777-4829746.wav
+#WAVSL FX_voice.wav-4821777-4829746.wav
+#WAVSM DRUM_break_midi_1.wav-4829747-4837715.wav
+#WAVSN DRUM_break_midi_2.wav-4829747-4864614.wav
+#WAVSO FX_voice.wav-4829747-4837715.wav
+#WAVSP DRUM_break_midi_1.wav-4837716-4845685.wav
+#WAVSQ FX_voice.wav-4837716-4845685.wav
+#WAVSR KEY_pad_1.wav-4841701-5355758.wav
+#WAVSS DRUM_break_midi_1.wav-4845686-4909444.wav
+#WAVST FX_voice.wav-4845686-4853655.wav
+#WAVSU FX_voice.wav-4853656-4861625.wav
+#WAVSV KEY_pad_4.wav-4857641-5371697.wav
+#WAVSW FX_voice.wav-4861626-4893505.wav
+#WAVSX DRUM_break_midi_2.wav-4864615-4909444.wav
+#WAVSY FX_voice.wav-4893506-0.wav
+#WAVSZ DRUM_break_midi_1.wav-4909445-4917414.wav
+#WAVT0 DRUM_break_wav_1+2.wav-4909445-4925384.wav
+#WAVT1 DRUM_break_midi_2.wav-4909445-4917414.wav
+#WAVT2 DRUM_break_midi_1.wav-4917415-4925384.wav
+#WAVT3 DRUM_break_midi_2.wav-4917415-4925384.wav
+#WAVT4 DRUM_break_midi_1.wav-4925385-4933354.wav
+#WAVT5 DRUM_break_wav_1+2.wav-4925385-4949294.wav
+#WAVT6 DRUM_break_midi_2.wav-4925385-4949294.wav
+#WAVT7 DRUM_break_midi_1.wav-4933355-4937339.wav
+#WAVT8 DRUM_break_midi_1.wav-4937340-4941324.wav
+#WAVT9 DRUM_break_midi_1.wav-4941325-4945309.wav
+#WAVTA DRUM_break_midi_1.wav-4945310-4949294.wav
+#WAVTB DRUM_break_midi_1.wav-4949295-4957264.wav
+#WAVTC DRUM_break_wav_1+2.wav-4949295-4957264.wav
+#WAVTD DRUM_break_midi_2.wav-4949295-4957264.wav
+#WAVTE DRUM_break_midi_1.wav-4957265-4965233.wav
+#WAVTF DRUM_break_wav_1+2.wav-4957265-4973203.wav
+#WAVTG DRUM_break_midi_2.wav-4957265-4965233.wav
+#WAVTH DRUM_break_midi_1.wav-4965234-4973203.wav
+#WAVTI DRUM_break_midi_2.wav-4965234-4973203.wav
+#WAVTJ DRUM_break_midi_1.wav-4973204-4981173.wav
+#WAVTK DRUM_break_wav_1+2.wav-4973204-4981173.wav
+#WAVTL DRUM_break_midi_2.wav-4973204-4989143.wav
+#WAVTM DRUM_break_midi_1.wav-4981174-4989143.wav
+#WAVTN DRUM_break_wav_1+2.wav-4981174-4989143.wav
+#WAVTO DRUM_break_midi_1.wav-4989144-4997113.wav
+#WAVTP DRUM_break_wav_1+2.wav-4989144-5013053.wav
+#WAVTQ DRUM_break_midi_2.wav-4989144-5013053.wav
+#WAVTR DRUM_break_midi_1.wav-4997114-5001098.wav
+#WAVTS DRUM_break_midi_1.wav-5001099-5005083.wav
+#WAVTT DRUM_break_midi_1.wav-5005084-5009068.wav
+#WAVTU DRUM_break_midi_1.wav-5009069-5013053.wav
+#WAVTV DRUM_break_midi_1.wav-5013054-5021023.wav
+#WAVTW DRUM_break_wav_1+2.wav-5013054-5021023.wav
+#WAVTX DRUM_break_midi_2.wav-5013054-5021023.wav
+#WAVTY DRUM_break_midi_1.wav-5021024-5028993.wav
+#WAVTZ DRUM_break_wav_1+2.wav-5021024-5036962.wav
+#WAVU0 DRUM_break_midi_2.wav-5021024-5028993.wav
+#WAVU1 DRUM_break_midi_1.wav-5028994-5036962.wav
+#WAVU2 DRUM_break_midi_2.wav-5028994-5036962.wav
+#WAVU3 DRUM_break_midi_1.wav-5036963-5044932.wav
+#WAVU4 DRUM_break_wav_1+2.wav-5036963-5044932.wav
+#WAVU5 DRUM_break_midi_2.wav-5036963-5044932.wav
+#WAVU6 DRUM_break_midi_1.wav-5044933-5052902.wav
+#WAVU7 DRUM_break_wav_1+2.wav-5044933-5052902.wav
+#WAVU8 DRUM_break_midi_2.wav-5044933-5052902.wav
+#WAVU9 DRUM_break_midi_1.wav-5052903-5060872.wav
+#WAVUA DRUM_break_wav_1+2.wav-5052903-5060872.wav
+#WAVUB DRUM_break_midi_2.wav-5052903-5060872.wav
+#WAVUC DRUM_break_midi_1.wav-5060873-5068842.wav
+#WAVUD DRUM_break_wav_1+2.wav-5060873-5076812.wav
+#WAVUE DRUM_break_midi_2.wav-5060873-5068842.wav
+#WAVUF DRUM_fx.wav-5068843-0.wav
+#WAVUG DRUM_break_midi_1.wav-5068843-5076812.wav
+#WAVUH DRUM_break_midi_2.wav-5068843-5076812.wav
+#WAVUI KEY_melo_1+2.wav-5068843-5100721.wav
+#WAVUJ DRUM_break_midi_1.wav-5076813-5084782.wav
+#WAVUK DRUM_break_wav_1+2.wav-5076813-5084782.wav
+#WAVUL DRUM_break_midi_2.wav-5076813-5084782.wav
+#WAVUM DRUM_break_midi_1.wav-5084783-5092752.wav
+#WAVUN DRUM_break_wav_1+2.wav-5084783-5092752.wav
+#WAVUO DRUM_break_midi_2.wav-5084783-5092752.wav
+#WAVUP DRUM_break_midi_1.wav-5092753-5100721.wav
+#WAVUQ DRUM_break_wav_1+2.wav-5092753-5100721.wav
+#WAVUR FX_whisper.wav-5092753-0.wav
+#WAVUS DRUM_break_midi_2.wav-5092753-5104706.wav
+#WAVUT KEY_pad_2+3.wav-5096737-0.wav
+#WAVUU DRUM_break_midi_1.wav-5100722-5116661.wav
+#WAVUV KEY_melo_1+2.wav-5100722-5323878.wav
+#WAVUW DRUM_break_wav_1+2.wav-5100722-5351773.wav
+#WAVUX KEY_arp_1+2.wav-5100722-5108691.wav
+#WAVUY DRUM_break_midi_2.wav-5104707-5347788.wav
+#WAVUZ KEY_arp_1+2.wav-5108692-5116661.wav
+#WAVV0 DRUM_break_midi_1.wav-5116662-5140571.wav
+#WAVV1 KEY_arp_1+2.wav-5116662-5124631.wav
+#WAVV2 KEY_arp_1+2.wav-5124632-5132601.wav
+#WAVV3 KEY_arp_1+2.wav-5132602-5140571.wav
+#WAVV4 DRUM_break_midi_1.wav-5140572-5148541.wav
+#WAVV5 KEY_arp_1+2.wav-5140572-5148541.wav
+#WAVV6 DRUM_break_midi_1.wav-5148542-5164480.wav
+#WAVV7 DRUM_break_slow_delay.wav-5148542-0.wav
+#WAVV8 KEY_arp_1+2.wav-5148542-5156511.wav
+#WAVV9 KEY_arp_1+2.wav-5156512-5164480.wav
+#WAVVA DRUM_break_midi_1.wav-5164481-5180420.wav
+#WAVVB KEY_arp_1+2.wav-5164481-5172450.wav
+#WAVVC FX_noise_1+2.wav-5164481-0.wav
+#WAVVD KEY_arp_1+2.wav-5172451-5180420.wav
+#WAVVE DRUM_break_midi_1.wav-5180421-5204330.wav
+#WAVVF KEY_arp_1+2.wav-5180421-5188390.wav
+#WAVVG KEY_arp_1+2.wav-5188391-5196360.wav
+#WAVVH KEY_arp_1+2.wav-5196361-5204330.wav
+#WAVVI DRUM_break_midi_1.wav-5204331-5212300.wav
+#WAVVJ KEY_arp_1+2.wav-5204331-5212300.wav
+#WAVVK DRUM_break_midi_1.wav-5212301-5228239.wav
+#WAVVL KEY_arp_1+2.wav-5212301-5220270.wav
+#WAVVM KEY_arp_1+2.wav-5220271-5228239.wav
+#WAVVN DRUM_break_midi_1.wav-5228240-5244179.wav
+#WAVVO KEY_arp_1+2.wav-5228240-5236209.wav
+#WAVVP KEY_arp_1+2.wav-5236210-5244179.wav
+#WAVVQ DRUM_break_midi_1.wav-5244180-5268089.wav
+#WAVVR KEY_arp_1+2.wav-5244180-5252149.wav
+#WAVVS KEY_arp_1+2.wav-5252150-5260119.wav
+#WAVVT KEY_arp_1+2.wav-5260120-5268089.wav
+#WAVVU DRUM_break_midi_1.wav-5268090-5276059.wav
+#WAVVV KEY_arp_1+2.wav-5268090-5276059.wav
+#WAVVW DRUM_break_midi_1.wav-5276060-5291999.wav
+#WAVVX KEY_arp_1+2.wav-5276060-5284029.wav
+#WAVVY KEY_arp_1+2.wav-5284030-5291999.wav
+#WAVVZ DRUM_break_midi_1.wav-5292000-5307938.wav
+#WAVW0 KEY_arp_1+2.wav-5292000-5299968.wav
+#WAVW1 KEY_arp_1+2.wav-5299969-5307938.wav
+#WAVW2 DRUM_break_midi_1.wav-5307939-5315908.wav
+#WAVW3 KEY_arp_1+2.wav-5307939-5315908.wav
+#WAVW4 DRUM_break_midi_1.wav-5315909-5323878.wav
+#WAVW5 KEY_arp_1+2.wav-5315909-5323878.wav
+#WAVW6 DRUM_break_midi_1.wav-5323879-5371697.wav
+#WAVW7 KEY_melo_1+2.wav-5323879-5339818.wav
+#WAVW8 KEY_arp_1+2.wav-5323879-5331848.wav
+#WAVW9 KEY_arp_1+2.wav-5331849-5339818.wav
+#WAVWA KEY_melo_1+2.wav-5339819-5355758.wav
+#WAVWB KEY_arp_1+2.wav-5339819-5347788.wav
+#WAVWC DRUM_break_midi_2.wav-5347789-0.wav
+#WAVWD KEY_arp_1+2.wav-5347789-5355758.wav
+#WAVWE DRUM_break_wav_1+2.wav-5351774-0.wav
+#WAVWF BASS_808.wav-5355759-0+DRUM_break_slow.wav-5355759-0.wav
+#WAVWG KEY_melo_1+2.wav-5355759-5582899.wav
+#WAVWH KEY_arp_1+2.wav-5355759-5363727.wav
+#WAVWI KEY_pad_1.wav-5355759-0.wav
+#WAVWJ KEY_arp_1+2.wav-5363728-5371697.wav
+#WAVWK DRUM_break_midi_1.wav-5371698-5395607.wav
+#WAVWL KEY_arp_1+2.wav-5371698-5379667.wav
+#WAVWM KEY_pad_4.wav-5371698-0.wav
+#WAVWN KEY_arp_1+2.wav-5379668-5387637.wav
+#WAVWO KEY_arp_1+2.wav-5387638-5395607.wav
+#WAVWP DRUM_break_midi_1.wav-5395608-5403577.wav
+#WAVWQ KEY_arp_1+2.wav-5395608-5403577.wav
+#WAVWR DRUM_break_midi_1.wav-5403578-5419517.wav
+#WAVWS KEY_arp_1+2.wav-5403578-5411547.wav
+#WAVWT KEY_arp_1+2.wav-5411548-5419517.wav
+#WAVWU DRUM_break_midi_1.wav-5419518-5435456.wav
+#WAVWV KEY_arp_1+2.wav-5419518-5427486.wav
+#WAVWW KEY_arp_1+2.wav-5427487-5435456.wav
+#WAVWX DRUM_break_midi_1.wav-5435457-5459366.wav
+#WAVWY KEY_arp_1+2.wav-5435457-5443426.wav
+#WAVWZ KEY_arp_1+2.wav-5443427-5451396.wav
+#WAVX0 KEY_arp_1+2.wav-5451397-5459366.wav
+#WAVX1 DRUM_break_midi_1.wav-5459367-5467336.wav
+#WAVX2 KEY_arp_1+2.wav-5459367-5467336.wav
+#WAVX3 DRUM_break_midi_1.wav-5467337-5483276.wav
+#WAVX4 KEY_arp_1+2.wav-5467337-5475306.wav
+#WAVX5 KEY_arp_1+2.wav-5475307-5483276.wav
+#WAVX6 DRUM_break_midi_1.wav-5483277-5499215.wav
+#WAVX7 KEY_arp_1+2.wav-5483277-5491246.wav
+#WAVX8 KEY_arp_1+2.wav-5491247-5499215.wav
+#WAVX9 DRUM_break_midi_1.wav-5499216-5523125.wav
+#WAVXA KEY_arp_1+2.wav-5499216-5507185.wav
+#WAVXB KEY_arp_1+2.wav-5507186-5515155.wav
+#WAVXC KEY_arp_1+2.wav-5515156-5523125.wav
+#WAVXD DRUM_break_midi_1.wav-5523126-5531095.wav
+#WAVXE KEY_arp_1+2.wav-5523126-5531095.wav
+#WAVXF DRUM_break_midi_1.wav-5531096-5547035.wav
+#WAVXG KEY_arp_1+2.wav-5531096-5539065.wav
+#WAVXH KEY_arp_1+2.wav-5539066-5547035.wav
+#WAVXI DRUM_break_midi_1.wav-5547036-5562974.wav
+#WAVXJ KEY_arp_1+2.wav-5547036-5555005.wav
+#WAVXK KEY_arp_1+2.wav-5555006-5562974.wav
+#WAVXL DRUM_break_midi_1.wav-5562975-5570944.wav
+#WAVXM KEY_arp_1+2.wav-5562975-5570944.wav
+#WAVXN DRUM_break_midi_1.wav-5570945-5578914.wav
+#WAVXO KEY_arp_1+2.wav-5570945-5578914.wav
+#WAVXP DRUM_break_midi_1.wav-5578915-0.wav
+#WAVXQ KEY_arp_1+2.wav-5578915-5586884.wav
+#WAVXR KEY_melo_1+2.wav-5582900-5610794.wav
+#WAVXS KEY_arp_1+2.wav-5586885-5594854.wav
+#WAVXT KEY_arp_1+2.wav-5594855-5602824.wav
+#WAVXU KEY_arp_1+2.wav-5602825-5610794.wav
+#WAVXV KEY_melo_1+2.wav-5610795-5833950.wav
+#WAVXW KEY_arp_1+2.wav-5610795-5618764.wav
+#WAVXX KEY_arp_1+2.wav-5618765-5626733.wav
+#WAVXY KEY_arp_1+2.wav-5626734-5634703.wav
+#WAVXZ KEY_arp_1+2.wav-5634704-5642673.wav
+#WAVY0 KEY_arp_1+2.wav-5642674-5650643.wav
+#WAVY1 KEY_arp_1+2.wav-5650644-5658613.wav
+#WAVY2 KEY_arp_1+2.wav-5658614-5666583.wav
+#WAVY3 KEY_arp_1+2.wav-5666584-5674553.wav
+#WAVY4 KEY_arp_1+2.wav-5674554-5682523.wav
+#WAVY5 KEY_arp_1+2.wav-5682524-5690493.wav
+#WAVY6 KEY_arp_1+2.wav-5690494-5698462.wav
+#WAVY7 KEY_arp_1+2.wav-5698463-5706432.wav
+#WAVY8 KEY_arp_1+2.wav-5706433-5714402.wav
+#WAVY9 KEY_arp_1+2.wav-5714403-5722372.wav
+#WAVYA KEY_arp_1+2.wav-5722373-5730342.wav
+#WAVYB KEY_arp_1+2.wav-5730343-5738312.wav
+#WAVYC KEY_arp_1+2.wav-5738313-5746282.wav
+#WAVYD KEY_arp_1+2.wav-5746283-5754252.wav
+#WAVYE KEY_arp_1+2.wav-5754253-5762221.wav
+#WAVYF KEY_arp_1+2.wav-5762222-5770191.wav
+#WAVYG KEY_arp_1+2.wav-5770192-5778161.wav
+#WAVYH KEY_arp_1+2.wav-5778162-5786131.wav
+#WAVYI KEY_arp_1+2.wav-5786132-5794101.wav
+#WAVYJ KEY_arp_1+2.wav-5794102-5802071.wav
+#WAVYK KEY_arp_1+2.wav-5802072-5810041.wav
+#WAVYL KEY_arp_1+2.wav-5810042-5818011.wav
+#WAVYM KEY_arp_1+2.wav-5818012-5825980.wav
+#WAVYN KEY_arp_1+2.wav-5825981-5833950.wav
+#WAVYO KEY_melo_1+2.wav-5833951-5849890.wav
+#WAVYP KEY_arp_1+2.wav-5833951-5841920.wav
+#WAVYQ KEY_arp_1+2.wav-5841921-5849890.wav
+#WAVYR KEY_melo_1+2.wav-5849891-5865830.wav
+#WAVYS KEY_arp_1+2.wav-5849891-5857860.wav
+#WAVYT KEY_arp_1+2.wav-5857861-5865830.wav
+#WAVYU KEY_arp_1+2.wav-5865831-5873800.wav
+#WAVYV KEY_melo_1+2.wav-5865831-0.wav
+#WAVYW KEY_arp_1+2.wav-5873801-5881770.wav
+#WAVYX KEY_arp_1+2.wav-5881771-5889739.wav
+#WAVYY KEY_arp_1+2.wav-5889740-5897709.wav
+#WAVYZ KEY_arp_1+2.wav-5897710-5905679.wav
+#WAVZ0 KEY_arp_1+2.wav-5905680-5913649.wav
+#WAVZ1 KEY_arp_1+2.wav-5913650-5921619.wav
+#WAVZ2 KEY_arp_1+2.wav-5921620-5929589.wav
+#WAVZ3 KEY_arp_1+2.wav-5929590-5937559.wav
+#WAVZ4 KEY_arp_1+2.wav-5937560-5945529.wav
+#WAVZ5 KEY_arp_1+2.wav-5945530-5953499.wav
+#WAVZ6 KEY_arp_1+2.wav-5953500-5961468.wav
+#WAVZ7 KEY_arp_1+2.wav-5961469-5969438.wav
+#WAVZ8 KEY_arp_1+2.wav-5969439-5977408.wav
+#WAVZ9 KEY_arp_1+2.wav-5977409-5985378.wav
+#WAVZA KEY_arp_1+2.wav-5985379-5993348.wav
+#WAVZB KEY_arp_1+2.wav-5993349-6001318.wav
+#WAVZC KEY_arp_1+2.wav-6001319-6009288.wav
+#WAVZD KEY_arp_1+2.wav-6009289-6017258.wav
+#WAVZE KEY_arp_1+2.wav-6017259-6025227.wav
+#WAVZF KEY_arp_1+2.wav-6025228-6033197.wav
+#WAVZG KEY_arp_1+2.wav-6033198-6041167.wav
+#WAVZH KEY_arp_1+2.wav-6041168-6049137.wav
+#WAVZI KEY_arp_1+2.wav-6049138-0.wav
+#BMP01 _BGI.png
+#BMP02 _MISS.png
+
+
+*---------------------- EXPANSION FIELD
+#MODE_HINT beat-7k
+#JUDGE_RANK 100
+#PREVIWE_MUSIC preview.wav
+#RESOLUTION 240
+
+
+
+*---------------------- MAIN DATA FIELD
+
+
+#00004:01
+#00006:02
+
+#00101:02
+#00101:00
+#00101:000000000000000F00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00101:07
+#00101:0400000A000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00101:03000000000B000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00101:05000000000000000000000C000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00101:010D0000000000000000000000000000
+#00101:060000000000000000000000000E00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00101:09
+#00151:08
+#00152:00000G00000000000000000G0L000000
+#00153:000000000H00000000000000000H0M00
+#00154:0000000000000I00000000000000000I
+#00155:000J
+#00158:00000000000K0000
+
+#00251:00000000000000080R0000000000000R
+#00253:0000000000000000000M0S0000000000
+#00254:0N
+#00255:000J0O00000000000000000O0T000000
+#00258:0000000K0P0000000000000000000000
+#00259:0000000000000Q0000000000000Q0U00
+
+#00351:0V
+#00352:000L0W00000000000000000W11000000
+#00353:0000000S0X00000000000000000X1200
+#00354:00000000000N0Y00000000000000000Y
+#00355:000000000000000T0Z00000000000000
+#00358:0000000000000000000P100000000000
+
+#00451:000000000000000V1700000000000017
+#00452:00000000000000000011180000000000
+#00453:00000000000000000000001219000000
+#00454:13000000000000000000000000131A00
+#00455:000Z1400000000000000000000000000
+#00458:00000010150000000000000000000000
+#00459:00000000000U16000000000000000000
+
+#00551:1B
+#00552:00181C00000000000000001C1H000000
+#00553:000000191D00000000000000001D1I00
+#00554:00000000001A1E00000000000000001E
+#00555:00000000000000141F00000000000000
+#00558:000000000000000000151G0000000000
+
+#00651:0000000000000000000000000000001B
+#00654:1J0000000000001J1N00000000000000
+#00655:001F1K0000000000001K1O0000000000
+#00658:0000001G1L0000000000001L1P000000
+#00659:0000000000161M0000000000001M1Q00
+
+#00751:1R000000000000000000001R1X000000
+#00752:001H1S00000000000000000000000000
+#00753:0000001I1T00000000000000001T1Y00
+#00754:00000000001N1U000000000000000000
+#00755:000000000000001O1V0000000000001V
+#00758:0000000000000000001P1W0000000000
+
+#00801:00000025
+#00851:000000000000001X2300000000000023
+#00852:00000000000000000000001S26000026
+#00853:00000000001Y22000022240000000000
+#00854:000000000000000000000000001U2727
+#00855:1Z00001Z210000000000000000000000
+#00859:001Q2000000000000000000000000000
+
+#00951:280000282D2D2G2G2J2J2N2N2P00002P
+#00952:29292B0000000000002B2O00002O2S2S
+#00953:000000242E002E2I2I2L002L2Q002Q2U
+#00954:2A000000002A2R00
+#00955:00212C00002C2H0000000000002H2T00
+#00958:0000001W2F00002F2K0000000000002K
+#00959:000000000000000000202M0000000000
+
+#01051:2W00002W30303434363639393C00003C
+#01052:2V2V2Y0000000000002Y3A00003A3F3F
+#01053:0000002U31003135353800383D003D3H
+#01054:000000000000002R3700000000000037
+#01055:002T2Z0000000000002Z3B0000000000
+#01058:2X00002X32000000000000323E000000
+#01059:00000000002M33000000000000333G00
+
+#01151:3I00003I3N3N3Q3Q3T3T3X3X3Z00003Z
+#01152:3J3J3L0000000000003L3Y00003Y4242
+#01153:0000003H3O003O3S3S3V003V40004044
+#01154:3K000000000000000000003K41000000
+#01155:003B3M00003M3R0000000000003R4300
+#01158:0000003E3P00003P3U0000000000003U
+#01159:0000000000000000003G3W0000000000
+
+#01251:460000464A4A4E4E4G4G4J004J4N004N
+#01252:45454800000000000000000000000000
+#01253:000000444B004B4F004F4I4I4L4L4O00
+#01254:00000000000000414H00000000000000
+#01255:004349000000000000494K0000000000
+#01258:470000474C0000000000004C4M00004M
+#01259:00000000003W4D0000000000004D4P4P
+
+#01351:4R000000000000000000004R58000000
+#01352:00484U00004U4Z0000000000004Z5B00
+#01353:0000004O4X00004X5200000000000052
+#01354:0000000000000000004H560000000000
+#01355:0000004K4V004V50505300535700575C
+#01358:4Q4Q4T0000000000004T550000555A5A
+#01359:4S00004S4W4W4Y4Y5151545459000059
+
+#01451:00000000000000585P0000000000005P
+#01452:005B5I0000000000005I5U0000000000
+#01453:5F00005F5L0000000000005L5X000000
+#01454:0000000000565N0000000000005N5Z00
+#01455:0000005C5J005J5O5O5R005R5V005V60
+#01458:5D5D5H0000000000005H5S00005S5Y5Y
+#01459:5E5E5G5G5K5K5M5M5Q5Q5T5T5W00005W
+
+#01501:0000006I
+#01551:61
+#01552:005U650000656A0000000000006A6M00
+#01553:0000005X680000686D00000000000000
+#01554:0000000000000000005Z6H0000000000
+#01555:000000606600666B6B6E006E6J006J6N
+#01558:636364000000000000646G00006G6L00
+#01559:62000062676769696C6C6F6F6K000000
+
+#01601:6O00000000000000000000000000006Q
+#01651:00000000000000000000000000000061
+#01658:0000000000000000000000000000006L
+#01659:000000000000006K6P00000000000000
+
+#01701:6T
+#01751:6R
+#01752:00000000006M6U000000000000000000
+#01753:00000000000000000000006D6V000000
+#01758:6S
+
+
+
+#02001:6W
+#02051:0000006R6X0000000000000000000000
+#02052:0000000000000000006U6Z0000000000
+#02053:0000000000000000000000000000006V
+#02054:00000000000000000000006H70000000
+#02055:000000000000006N6Y0000000000006Y
+
+#02151:00000000006X73000000000000000000
+#02152:00000000000000000000000000000000000000000000006Z0074000000000000
+#02153:71
+#02155:72
+
+
+
+#02401:00000000000000000000000078000079
+#02451:00000073750000000000000000000075
+#02453:0000000000000000000000000000000000000071007700000000000000000000
+#02454:00000000000000000000000000000070
+#02458:0000000000000000000000000000006S
+#02459:000000000000006P7600000000000000
+
+#02501:7A
+#02551:7B00000000000000007B7M000000007M
+#02552:00747E00007E7I7I7K000000007K7Q00
+#02553:00777F0000000000007F7N000000007N
+#02554:7D
+#02555:000000727G007G7J7J7L007L7P007P7R
+#02558:7C
+#02559:000000767H0000000000007H7O000000
+
+#02651:7S00000000000000007S820000000082
+#02652:007Q7U00007U7Y7Y8000000000808600
+#02653:7T7T7V0000000000007V830000000083
+#02655:0000007R7W007W7Z7Z81008185008587
+#02659:0000007O7X0000000000007X84000000
+
+#02751:880000000000000000888I000000008I
+#02752:00868A00008A8E8E8G000000008G8M00
+#02753:89898B0000000000008B8J000000008J
+#02755:000000878C008C8F8F8H008H8L008L8N
+#02759:000000848D0000000000008D8K000000
+
+#02851:8O000000008O8V000000000000000000
+#02852:008M8R000000008R8W00008W91919494
+#02853:8P8P8Q00008Q8U000000008U92000000
+#02854:00000000000000007D8Y00000000008Y
+#02855:0000008N8S00008S8X0000000000008X
+#02858:0000000000000000007C8Z008Z930000
+#02859:0000008K8T000000008T900000000090
+
+#02951:0000008V9C0000000000009C9J000000
+#02952:98
+#02953:000000929B009B9E9E9G009G9K009K9M
+#02954:97
+#02955:969699000000000000999H000000009H
+#02958:00939A00009A9D9D9F000000009F9L00
+#02959:950000000000000000959I000000009I
+
+#03051:0000009J9R0000000000009R9Z000000
+#03053:0000009M9S009S9U9U9W009WA000A0A2
+#03055:9N9N9P0000000000009P9X000000009X
+#03058:009L9Q00009Q9T9T9V000000009VA100
+#03059:9O00000000000000009O9Y000000009Y
+
+#03151:0000009ZA7000000000000A7AG000000
+#03153:000000A2A800A8AAAAAC00ACAF00AFAI
+#03155:A4A4A5000000000000A5AD00000000AD
+#03158:00A1A60000A6A9A9AB00000000ABAH00
+#03159:A30000000000000000A3AE00000000AE
+
+#03215:000000000000000000000000AUAW0000
+#03219:000000000000000000000000AVAX0000
+#03251:00AGALALAN000000ANAS0000000000AS
+#03253:00AIAMAMAO0000AOARARAT00000000AT
+#03255:AJ00000000AJAP00000000AP0000AY00
+#03259:AK00000000AKAQ00000000AQ0000AZ00
+
+#03301:B2B50000
+#03351:B00000000000000000B0BE00000000BE
+#03352:0098B3000000000000B3BF0000BFBJBJ
+#03353:B1000000000000B1BC000000000000BC
+#03354:000000000097B9B9BB00000000000000
+#03355:000000AYB6000000000000B6BG0000BG
+#03358:00AHB4B4B700B7BABABD00BDBH00BHBK
+#03359:000000AZB8000000000000B8BI000000
+
+#03401:000000C2
+#03451:BL0000000000000000BLBX00000000BX
+#03452:BNBNBQ000000000000BQBZ0000BZC3C3
+#03453:BM0000000000000000BMBY00000000BY
+#03454:0000000000BBBTBTBV00000000000000
+#03455:BO
+#03458:00BKBPBPBS00BSBUBUBW00BWC100C1C4
+#03459:000000BIBR000000000000BRC0000000
+
+#03551:C50000000000000000C5CH00000000CH
+#03552:C7C7C8000000000000C8CI0000CICNCN
+#03553:C60000000000000000C6CJCJCM000000
+#03554:0000000000BVCCCCCE00000000000000
+#03555:0000000000000000000000BOCK000000
+#03558:00C4C9C9CA00CACDCDCG00CGCL00CLCO
+#03559:000000C0CB0000CBCF00000000000000
+
+#03601:CR00000000CYCZD000000000D2000000
+#03651:CQ0000000000000000000000000000CQ
+#03652:CPCPCS00000000000000000000000000
+#03653:000000CMCU0000000000000000000000
+#03655:000000CKCV00000000000000000000CV
+#03658:00COCTCTCW0000000000000000000000
+#03659:000000CFCX00000000CXD10000000000
+
+#03751:D4
+#03752:00CSD50000000000000000D5DA000000
+#03753:000000CUD60000000000000000000000
+#03754:0000000000CED700000000D7DB000000
+#03755:D3000000000000D3D800000000D8DC00
+#03758:000000000000000000CWD900000000D9
+
+#03851:00D4DE000000000000000000000000DE
+#03854:00000000000000DBDI00000000000000
+#03855:00DCDF000000000000DFDJ0000000000
+#03858:DD0000DDDG000000000000DGDK000000
+#03859:0000000000D1DH000000000000DHDL00
+
+#03901:000000DT
+#03951:DM00000000000000000000DMDV000000
+#03952:00DADN0000DNDQ000000000000DQDW00
+#03953:000000D6DO0000DODR000000000000DR
+#03954:000000000000000000DIDS0000000000
+#03958:0000000000000000000000DKDU000000
+#03959:0000000000DLDP000000000000000000
+
+#04001:DY
+#04051:00000000000000DVE50000E5E80000E8
+#04052:0000000000DWE30000E3E600000000E6
+#04053:DX0000000000DX00E200000000000000000000000000000000E200E90000E900
+#04054:00DSE000000000E0E400000000000000
+#04055:00DJDZ000000000000000000000000DZ
+#04058:000000DUE10000000000000000000000
+#04059:00000000000000000000000000000000000000DP00E700000000000000000000
+
+#04101:0000EF000000EMEOEP000000EU000000
+#04151:EB0000EBEH00000000000000000000EH
+#04152:ECECEGEGEKEKENENEQ000000000000EQ
+#04153:ED0000EDEL00000000ELESESEV0000EV
+#04154:00000000000000E4ER00000000EREW00
+#04155:EA00000000000000000000EAET000000
+#04158:00E1EEEEEJ0000000000000000000000
+#04159:000000E7EI00000000000000000000EI
+
+#04201:F1
+#04251:EY00000000EYF8F8FCFCFE0000FEFLFL
+#04252:EZEZF3F3F400000000F4FFFFFH0000FH
+#04253:F0F0F2F2F500000000F5FGFGFI0000FI
+#04254:000000EWF600F6FAFAFD00FDFJ00FJFN
+#04255:000000ETF7F7F900000000F9FKFKFM00
+#04259:EX000000000000EXFB000000000000FB
+
+#04351:FP00000000FPFYFYG2G2G40000G4GBGB
+#04352:FRFRFSFSFW00000000FWG5G5G90000G9
+#04353:FQFQFTFTFU00000000FUG6G6G80000G8
+#04354:000000FNFV00FVG0G0G300G3G700G7GC
+#04355:000000FMFXFXFZ00000000FZGA000000
+#04359:FO000000000000FOG100000000000000
+
+#04401:000000000000GNGOGP00000000000000
+#04451:GD0000GDGI00000000000000000000GI
+#04452:GEGEGGGGGJ0000000000000000000000
+#04453:GFGFGHGHGK0000000000000000000000
+#04454:000000GCGL00000000000000000000GL
+#04455:000000GAGM0000000000000000000000
+#04459:000000000000000000G1GQ0000000000
+
+#04551:GS
+#04552:00GJGT0000000000000000GTGY000000
+#04553:000000GKGU0000000000000000000000
+#04554:GR00000000GRGV00000000GVGZ000000
+#04555:00000000000000GMGW00000000GWH000
+#04558:000000000000000000EJGX00000000GX
+
+#04651:00GSH2000000000000000000000000H2
+#04654:00000000000000GZH600000000000000
+#04655:00H0H3000000000000H3H70000000000
+#04658:H10000H1H4000000000000H4H8000000
+#04659:0000000000GQH5000000000000H5H900
+
+#04751:HA00000000000000000000HAHI000000
+#04752:00GYHB0000HBHE000000000000HEHJ00
+#04753:000000GUHC0000HCHF000000000000HF
+#04754:000000000000000000H6HG0000000000
+#04758:0000000000000000000000H8HH000000
+#04759:0000000000H9HD0000000000000000HD
+
+#04801:000000000000000000000000000000I2
+#04851:00000000000000HIHV0000HVHZ000000
+#04852:0000000000HJHS0000HSHX0000000000
+#04853:HL0000HLHQ0000000000000000HQI100
+#04854:00HGHO00000000HOHU000000000000HU
+#04855:00H7HN0000000000000000HNHY000000
+#04858:00HHHMHMHP0000HPHTHTHW0000000000
+#04859:HK00000000HKHR000000000000HRI000
+
+#04901:I3
+#04903:53
+#04951:0000000000000000000000000000000000000000000000000000000000HZ0000I8000000000000000000000000I80000IB000000000000000000000000IB0000
+#04953:000000000000000000000000000000000000000000I10000I7000000000000000000000000000000000000000000000000000000000000000000000000000000
+#04954:I4000000000000000000000000000000000000000000000000000000000000000000000000I40000I90000000000000000000000000000000000000000I90000
+#04955:00000000000000000000000000HY0000I60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#04958:00000000000000000000000000HW0000I500000000000000000000000000000000000000000000000000000000I50000IA000000000000000000000000000000
+
+#05051:ID00000000000000000000000000000000000000000000000000000000ID0000IH00000000000000000000000000000000000000000000000000000000000000
+#05053:000000000000000000000000000000000000000000I70000IG000000000000000000000000000000000000000000000000000000000000000000000000000000
+#05054:IC000000000000000000000000000000000000000000000000000000000000000000000000IC0000II0000000000000000000000000000000000000000II0000
+#05058:00000000000000000000000000IA0000IE00000000000000000000000000000000000000000000000000000000IE0000IJ000000000000000000000000000000
+#05059:00000000000000000000000000I00000IF0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+#05151:0000000000IH0000IL00000000000000000000000000000000000000000000000000000000IL0000IX000000000000000000000000IX0000J400000000000000
+#05152:0000000000HX0000IMIM0000IO000000000000000000000000000000000000000000000000IO0000IYIY0000J00000000000000000J00000J3J30000J5000000
+#05153:0000000000IG0000IN00000000IN0000IQIQ0000IS00000000000000000000000000000000IS0000IZ0000000000000000000000000000000000000000000000
+#05154:IK000000000000000000000000IK0000IR00000000IR0000ITIT0000IU0000000000000000IU0000IW0000000000000000000000000000000000000000IW0000
+#05155:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000I60000
+#05158:00000000000000000000000000IJ0000IP00000000000000000000000000000000000000000000000000000000IP0000J1000000000000000000000000000000
+#05159:0000000000000000000000000000000000000000000000000000000000IF0000IV000000000000000000000000IV0000J2000000000000000000000000000000
+
+#05201:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JJ000000000000
+#05252:0000000000J50000J8J80000JA000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#05253:0000000000IZ0000J900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#05254:J60000000000000000000000000000000000000000J60000JD0000000000000000000000000000000000000000JD0000JH00000000JH0000JI00000000JI0000
+#05255:J70000000000000000000000000000000000000000J70000JE000000000000000000000000JE0000JG0000000000000000000000000000000000000000000000
+#05258:00000000000000000000000000J10000JB0000000000000000000000000000000000000000JB0000JF0000000000000000000000000000000000000000000000
+#05259:00000000000000000000000000J20000JC0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+#05301:00JM0000
+#05351:0000000000000000000000000000000000000000000000000000000000J40000JP000000000000000000000000JP0000JS000000000000000000000000JS0000
+#05353:000000000000000000000000000000000000000000J90000JO000000000000000000000000000000000000000000000000000000000000000000000000000000
+#05354:JK000000000000000000000000000000000000000000000000000000000000000000000000JK0000JQ0000000000000000000000000000000000000000JQ0000
+#05355:00000000000000000000000000JG0000JN0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#05358:00000000000000000000000000JF0000JL00000000000000000000000000000000000000000000000000000000JL0000JR000000000000000000000000000000
+
+#05451:JU00000000000000000000000000000000000000000000000000000000JU0000JY00000000000000000000000000000000000000000000000000000000000000
+#05453:000000000000000000000000000000000000000000JO0000JX000000000000000000000000000000000000000000000000000000000000000000000000000000
+#05454:JT000000000000000000000000000000000000000000000000000000000000000000000000JT0000JZ0000000000000000000000000000000000000000000000
+#05458:00000000000000000000000000JR0000JV00000000000000000000000000000000000000000000000000000000JV0000K0000000000000000000000000000000
+#05459:00000000000000000000000000JC0000JW0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+#05501:K1
+#05551:0000000000JY0000K30000000000000000000000000000000000000000000000000000000000K30000KD0000000000000000000000KD0000KH00000000000000
+#05552:0000000000JA0000K2K20000K500000000000000000000000000000000000000000000000000K50000KCKC0000KF00000000000000KF0000KIKI0000KJ000000
+#05553:0000000000JX0000K400000000K40000K6K60000K80000000000000000000000000000000000K80000KE00000000000000000000000000000000000000000000
+#05554:00000000000000000000000000JZ0000K700000000K70000K9K90000KA0000000000000000000000000000000000000000000000000000000000000000KA0000
+#05559:0000000000000000000000000000000000000000000000000000000000JW0000KB000000000000000000000000KB0000KG000000000000000000000000000000
+
+#05601:00KL0000
+#05603:A6
+#05651:000000000000000000000000000000KH
+#05653:000000000000000000000000000000KE
+#05654:KK
+#05655:000000000000000000000000000000JN
+#05659:000000000000000000000000000000KG
+
+#05702:0.875
+#05701:0000000000000000000000L2L3L7
+#05703:0000000000000000000000000000000000530000
+#05751:KN00000000KNKV00000000KVL500
+#05752:0000KJKRKRKT0000KTKZKZL10000
+#05753:KO00000000KOKW00000000000000
+#05754:00000000000000000000000000000000000000000000KK00L60000L6
+#05755:KP00000000KPKX000000000000KX
+#05758:00K0KQKQKS0000KSKYKYL00000L0
+#05759:KM00000000KMKU00000000KUL4L4
+
+#05801:L9000000000000LQ0000000000000000
+#05803:A6
+#05851:0000L500LF0000000000LF00LO00000000LO00LW000000000000LW00M6000000
+#05852:00L100LE00000000LE00LLLL00LP00000000LP00LX00000000LX00M500000000
+#05853:KW00LD00000000LD00LK0000LK00LR00000000LR00LY0000LY00M400000000M4
+#05854:00LC00000000LC00LJ00000000LJ00LS00000000LS00LZLZ00M300000000M300
+#05855:L800000000L800LI000000000000LI00LT0000000000LT00M000000000M000M9
+#05858:LB000000LB00LH000000LH00LN0000LN00LU00000000LU00M1000000M100M800
+#05859:LA0000LA00LG000000LG00LM00000000LM00LV000000LV00M20000M200M70000
+
+#05901:00MK0000
+#05951:00M6ME000000000000000000000000ME
+#05952:M500MCMC00MG000000000000000000000000000000000000000000000000MG00
+#05953:00MB0000MB00MH0000000000000000000000MH00MO0000000000000000000000
+#05954:MA00000000MA00MI000000000000000000000000000000000000000000000000
+#05955:000000M9MJ0000MJMN000000000000MN
+#05958:000000M800MF00MF00ML0000000000000000ML00MP0000000000000000000000
+#05959:00M7MD00MDMM0000000000MMMQ000000
+
+#06001:00MW000000000000
+#06051:MS00000000MSN0N0N2N2N40000N4NANA
+#06052:MTMTMUMUMX00000000MXN6N6N70000N7
+#06053:00MOMVMVMY00000000MYN5N5N80000N8
+#06054:000000MIMZ00MZN1N1N300N3N900N9NB
+#06055:MR
+
+#06101:00000000NI00000000000000NTNW0000
+#06151:ND00000000NDNMNMNO00000000000000
+#06152:NCNCNG0000NGNL000000000000000000
+#06153:NE00000000NENNNNNP00000000NPNX00
+#06155:000000MRNH00000000NHNQNQNU0000NU
+#06158:00MPNFNFNJ00000000NJNR0000000000
+#06159:000000MQNK00000000NKNSNSNV000000
+
+#06201:NY
+#06251:00000000000000NOO200000000000000
+#06252:0000000000000000000000NLO4000000
+#06254:0000000000NBO1000000000000000000
+#06255:NZ0000000000000000000000000000NZ
+#06258:000000000000000000NRO30000000000
+#06259:000000NVO000000000000000000000O0
+
+#06301:O6
+#06353:000000NXOB00OBOEOEOG00OGOM00OMOO
+#06354:00O1O9O9OA000000000000OAOL000000
+#06355:O70000O7OC00000000OCOJOJOK0000OK
+#06358:00O3O8000000000000O8OI00000000OI
+#06359:O500000000O5ODODOFOFOH0000OHONON
+
+#06453:000000OOOW00OWOYOYP000P0P600P6P8
+#06454:00OLOTOTOV000000000000OVP5000000
+#06455:OR0000OROU00000000OUP3P3P40000P4
+#06458:OQOQOS000000000000OSP200000000P2
+#06459:OP00000000OPOXOXOZOZP10000P1P7P7
+
+#06501:000000PS
+#06551:000000O2PF00000000PFPR0000000000
+#06552:00O4PEPEPH0000PHPLPLPQ00PQPW0000
+#06553:000000P8PG00000000PGPP00PPPV0000
+#06554:0000P500PD0000000000000000000000PD00PN000000000000000000000000PN
+#06555:PB00000000PBPJPJPM0000PMPTPTPXPX
+#06558:PAPAPC0000PCPI00000000PIPUPUPYPY
+#06559:P900000000P9PK00PKPO0000000000PO
+
+#06601:Q1Q60000000000QX
+#06651:0000PR00Q70000000000Q700QF00000000QF00QN000000000000QN00QY000000
+#06652:00PW00Q500000000Q500QDQD00QH00000000QH00QO00000000QO00QW00000000
+#06653:PV00Q400000000Q400QC0000QC00QI00000000QI00QP0000QP00QV00000000QV
+#06654:00Q300000000Q300QB00000000QB00QJ00000000QJ00QQQQ00QU00000000QU00
+#06655:Q000000000Q000QA000000000000QA00QK0000000000QK00QT00000000QT00R1
+#06658:Q2000000Q200Q9000000Q900QG0000QG00QL00000000QL00QR000000QR00R000
+#06659:PZ0000PZ00Q8000000Q800QE00000000QE00QM000000QM00QS0000QS00QZ0000
+
+#06701:00R6000000000000
+#06751:00QYR7000000000000000000000000R7
+#06752:QW00R4R400R9000000000000000000000000000000000000000000000000R900
+#06753:00R30000R300RA0000000000000000000000RA00RG0000000000000000000000
+#06754:R200000000R200RB000000000000000000000000000000000000000000000000
+#06755:000000R1RC0000RCRF000000000000RF
+#06758:0000R000R80000R800RD0000000000000000RD00RH0000000000000000000000
+#06759:00QZ00R500000000R500RE0000000000000000000000RE00RI00000000000000
+
+#06801:RJ
+#06851:RL00000000RLRSRSRURURX0000RXS2S2
+#06852:RMRMRNRNRP00000000RPRWRWS10000S1
+#06853:00RGRORORQ00000000RQRYRYS00000S0
+#06854:000000RBRR00RRRTRTRV00RVRZ00RZS3
+#06855:RK
+
+#06901:00000000SA000000SI000000000000SR
+#06951:S400000000S4SE00000000SESMSMSPSP
+#06952:S5S5S70000S7SD00000000SDSN000000
+#06953:S600000000S6SF00000000SFSOSOSQ00
+#06955:000000RKS90000S9SHSHSL0000000000
+#06958:00RHS8S8SB0000SBSJ00000000000000
+#06959:000000RISC0000SCSGSGSK0000000000
+
+#07001:SS0000000000000000000000SV000000000000SX00000000000000000000000000000000000000000000000000000000SY000000000000000000000000000000
+#07051:ST0000000000000000000000000000ST
+#07052:000000000000000000000000000000SN
+#07053:000000000000000000000000000000SQ
+#07054:00S3SU00000000000000000000000000
+#07059:000000SKSW0000000000000000000000
+
+#07151:SZ00000000SZT7T7T9T9TB00000000TB
+#07152:T1T1T2000000000000T2TC0000TCTHTH
+#07153:T00000000000000000T0TD00000000TD
+#07154:000000SUT5000000000000T5TF000000
+#07155:00SLT3T3T4000000000000T4TGTGTI00
+#07158:000000SJT600T6T8T8TA00TATE000000
+
+#07251:TJ00000000TJTRTRTTTTTV00000000TV
+#07252:TKTKTM000000000000TMTW0000TWU1U1
+#07253:TL0000000000000000TLTX00000000TX
+#07254:000000TFTQ000000000000TQTZ000000
+#07255:00TITNTNTO000000000000TOU0U0U200
+#07258:000000TETP00TPTSTSTU00TUTY000000
+
+#07301:0000000000000000UF0000000000URUT
+#07351:U400000000U4UE00000000UEUO0000UO
+#07352:U300000000U3UCUCUH0000UHUN000000
+#07353:U500000000U5UD00000000UDUM000000
+#07354:000000000000000000TZUL0000ULUQ00
+#07355:00U2U7U7UA0000UAUGUGUK0000UKUSUS
+#07358:00TYU6U6U900000000U9UJ0000UJUPUP
+#07359:00SWU8U8UB0000UBUI00000000000000
+
+#07401:UWUY00000000000000000000V7000000
+#07451:UX00000000000000000000UXV8000000
+#07452:00UNUZ0000UZV2000000000000V2V900
+#07453:000000UMV10000V1V3000000000000V3
+#07454:000000000000000000UQV50000000000
+#07455:UV
+#07458:UU0000UUV000000000V0V4V4V60000V6
+
+#07501:VC
+#07551:00000000000000V8VH000000000000VH
+#07552:00V9VD000000000000VDVJ0000000000
+#07553:VB0000VBVF000000000000VFVL000000
+#07554:0000000000V5VG000000000000VGVM00
+#07558:VA0000VAVE00000000VEVIVIVK0000VK
+
+#07651:VO00000000000000000000VOVX000000
+#07652:00VJVP0000VPVS000000000000VSVY00
+#07653:000000VLVR0000VRVT000000000000VT
+#07654:000000000000000000VMVV0000000000
+#07658:VN0000VNVQ00000000VQVUVUVW0000VW
+
+#07701:0000000000000000W60000000000WCWE
+#07751:00000000000000VXW8000000000000W8
+#07752:00VYW1000000000000W1W9W9WA000000
+#07753:W00000W0W3000000000000W3WB0000WB
+#07754:0000000000VVW5000000000000W5WDWD
+#07758:VZ0000VZW2W2W4W4W700000000000000
+
+#07801:WFWM0000
+#07851:WG
+#07852:000000WAWK00000000WKWPWPWR0000WR
+#07853:WI
+#07854:WH00000000000000000000WHWS000000
+#07855:00UVWJ0000WJWN000000000000WNWT00
+#07858:000000W7WL0000WLWO000000000000WO
+#07859:000000000000000000UIWQ0000000000
+
+#07952:WU0000WUWX00000000WXX1X1X30000X3
+#07954:00000000000000WSX0000000000000X0
+#07955:00WTWW000000000000WWX20000000000
+#07958:WV0000WVWY000000000000WYX4000000
+#07959:0000000000WQWZ000000000000WZX500
+
+#08052:X60000X6X900000000X9XDXDXF0000XF
+#08054:X700000000000000000000X7XG000000
+#08055:00X2X80000X8XB000000000000XBXH00
+#08058:000000X4XA0000XAXC000000000000XC
+#08059:000000000000000000X5XE0000000000
+
+#08101:00XP
+#08152:XI0000XIXLXLXN0000000000000000XN
+#08153:0000000000000000000000WIXT000000
+#08154:00000000000000XGXQ00000000000000
+#08155:0000000000XHXO000000000000XOXU00
+#08158:XJ0000XJXM00000000XMXS00000000XS
+#08159:00XEXK0000000000XKXR000000000000
+
+#08252:XW00000000000000000000XWY2000000
+#08253:00XTXX0000XXXZ000000000000XZY300
+#08254:000000XQXY0000XYY0000000000000Y0
+#08255:000000000000000000XUY10000000000
+#08258:XV
+
+#08352:00000000000000Y2Y8000000000000Y8
+#08353:00Y3Y5000000000000Y5Y90000000000
+#08354:Y40000Y4Y6000000000000Y6YA000000
+#08355:0000000000Y1Y7000000000000Y7YB00
+
+#08452:YC00000000000000000000YCYI000000
+#08453:00Y9YD0000YDYF000000000000YFYJ00
+#08454:000000YAYE0000YEYG000000000000YG
+#08455:000000000000000000YBYH0000000000
+
+#08551:0000000000000000000000WGYR0000YR
+#08552:00000000000000YIYP00000000000000
+#08553:00YJYL000000000000YLYQ0000000000
+#08554:YK0000YKYM000000000000YMYS000000
+#08555:0000000000YHYN000000000000YNYT00
+#08559:00000000000000XRYO000000000000YO
+
+#08651:YU00000000000000000000YUZ1000000
+#08652:00YPYW00000000000000000000YWZ200
+#08653:000000YQYX00000000000000000000YX
+#08654:0000000000YSYY000000000000000000
+#08655:00000000000000YTYZ00000000000000
+#08658:000000000000000000XVZ00000000000
+#08659:YV
+
+#08751:00000000000000Z1Z7000000000000Z7
+#08752:000000000000000000Z2Z80000000000
+#08753:Z3
+#08754:00YYZ40000000000000000Z4Z9000000
+#08755:000000YZZ50000000000000000Z5ZA00
+#08758:0000000000Z0Z6000000000000000000
+
+#08851:ZB
+#08852:00Z8ZC00000000000000000000000000
+#08853:000000Z3ZD000000000000ZDZH000000
+#08854:0000000000Z9ZE000000000000000000
+#08855:00000000000000ZAZF00000000ZFZI00
+#08858:000000000000000000Z6ZG0000000000
+
+
+
+#09151:00ZB
+#09152:00ZC
+#09153:00ZH
+#09154:00ZE
+#09155:00ZI
+#09158:00ZG
+#09159:00YV
+
+
